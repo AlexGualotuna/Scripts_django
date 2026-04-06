@@ -1,0 +1,61 @@
+
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('ESCUELA NO ASIGNADA', 'ESCUELA NO ASIGNADA', '00', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('TODAS (PARA ESTADO ACADÉMICO)', 'TODAS (PARA ESTADO ACADÉMICO)', '99', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CIENCIAS DE LA SALUD', 'ESC. CIENCIAS DE LA SALUD', 'HS', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('ARTE, DISEÑO Y COMUNICACION COLECTIVA', 'ESC. ARTE, DISEÑO Y COM. COL.', 'CC', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CIENCIAS EMPRESARIALES Y HOSPITALIDADES', 'ESC. CIENCIAS EMPRES. Y HOSP.', 'AH', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CIENCIAS SOCIALES', 'ESC. CIENCIAS SOCIALES', 'CS', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('INGENIERIAS Y TECNOLOGIAS DE LA INFORMACION Y COMUNICACION', 'ESC. ING. TEC. DE LA INF. COM.', 'IN', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CIENCIAS JURIDICAS', 'ESC. CIENCIAS JURIDICAS', 'CJ', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CIENCIAS EXACTAS Y NATURALES', 'ESC. CIENCIAS EXACTAS Y NAT.', 'CN', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('EDUCACION CONTINUA', 'ESC. EDUCACION CONTINUA', 'EC', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('CENTRO DE POSGRADOS', 'ESC. CENTRO DE POSGRADOS', 'PO', NULL, 4);
+
+        
+            insert into dara_mallas_college
+            (name, name_short, code, name_en, company_id)
+            values ('ESCUELA DE FORMACION GENERAL', 'ESCUELA DE FORMACION GENERAL', 'FG', NULL, 4);
+
+        

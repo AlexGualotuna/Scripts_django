@@ -1,0 +1,355 @@
+
+UPDATE dara_mallas_subject
+SET name_en = 'THEORY OF LAW AND SOCIOLOGY OF LAW'
+WHERE TRIM(name) = 'TEORÍA DEL DERECHO Y SOCIOLOGÍA JURÍDICA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'SUBJECTS OF LAW AND FAMILY LAW'
+WHERE TRIM(name) = 'SUJETOS DEL DERECHO Y RELACIONES FAMILIARES'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PHILOSOPHY OF LAW AND LEGAL ARGUMENTATION'
+WHERE TRIM(name) = 'ARGUMENTACIÓN Y FILOSOFÍA DEL DERECHO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LANGUAGE AND COMMUNICATION'
+WHERE TRIM(name) = 'LENGUAJE Y COMUNICACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'THEORY OF CRIME AND PUNISHMENT'
+WHERE TRIM(name) = 'TEORÍA DEL DELITO Y DOSIMETRÍA DE LA PENA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CONSTITUTIONAL FOUNDATIONS AND INSTITUTIONS'
+WHERE TRIM(name) = 'FUNDAMENTOS E INSTITUCIONES CONSTITUCIONALES'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LEGAL BUSINESS AND CONTRACTS'
+WHERE TRIM(name) = 'NEGOCIO JURÍDICO Y CONTRATOS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'INTRODUCTION TO PROCEDURAL LAW'
+WHERE TRIM(name) = 'FUNDAMENTOS DEL DERECHO PROCESAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CRITICAL AND CREATIVE THINKING'
+WHERE TRIM(name) = 'PENSAMIENTO CRÍTICO Y CREATIVO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CRIMINAL OFFENSES IN PARTICULAR'
+WHERE TRIM(name) = 'INFRACCIONES PENALES EN PARTICULAR'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CONSTITUTIONAL RIGHTS AND GUARANTEES'
+WHERE TRIM(name) = 'DERECHOS Y GARANTÍAS CONSTITUCIONALES'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PROPERTY RIGHTS'
+WHERE TRIM(name) = 'DERECHOS DE PROPIEDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PROCEDURAL LAW AND MASC'
+WHERE TRIM(name) = 'DERECHO PROCESAL Y MASC'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CITIZENSHIP AND SOCIETY'
+WHERE TRIM(name) = 'CIUDADANÍA Y SOCIEDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CRIMINAL PROCEDURAL LAW'
+WHERE TRIM(name) = 'DERECHO PROCESAL PENAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'HUMAN RIGHTS AND THE ENVIRONMENT'
+WHERE TRIM(name) = 'DERECHOS HUMANOS Y DE LA NATURALEZA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LAW OF OBLIGATIONS'
+WHERE TRIM(name) = 'DAÑOS, OBLIGACIONES Y RESPONSABILIDADES'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LITIGATION CLINIC'
+WHERE TRIM(name) = 'CLÍNICA DE LITIGACIÓN ORAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LAW AND ECONOMICS'
+WHERE TRIM(name) = 'DERECHO DE LAS ESTRUCTURAS ECONÓMICAS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LAWYERING SKILLS I'
+WHERE TRIM(name) = 'PRÁCTICA JURÍDICA I'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ADMINISTRATIVE LAW'
+WHERE TRIM(name) = 'INSTITUCIONES Y PROCEDIMIENTOS ADMINISTRATIVOS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'COMMERCIAL AND COMPANY LAW'
+WHERE TRIM(name) = 'DERECHO COMERCIAL Y EMPRESA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ETHICS AND CORRUPTION PREVENTION'
+WHERE TRIM(name) = 'ÉTICA Y PREVENCIÓN DE LA CORRUPCIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LABOR LAW AND SOCIAL SECURITY'
+WHERE TRIM(name) = 'DERECHO LABORAL Y SEGURIDAD SOCIAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LAWYERING SKILLS II'
+WHERE TRIM(name) = 'PRÁCTICA JURÍDICA II'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ECUADORIAN TAX LAW'
+WHERE TRIM(name) = 'DERECHO DEL RÉGIMEN IMPOSITIVO ECUATORIANO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'NEW PROPERTY RIGHTS AND INTELLECTUAL PROPERTY'
+WHERE TRIM(name) = 'NUEVOS DERECHOS DE PROPIEDAD Y PROPIEDAD INTELECTUAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PUBLIC INTERNATIONAL LAW AND GLOBALIZATION'
+WHERE TRIM(name) = 'DERECHO INTERNACIONAL PÚBLICO Y GLOBALIZACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LEGAL INNOVATION AND LEGALTECH'
+WHERE TRIM(name) = 'INNOVACIÓN JURÍDICA Y LEGALTECH'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LAWYERING SKILLS III'
+WHERE TRIM(name) = 'PRÁCTICA JURÍDICA III'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CONSTITUTIONAL AND INTERNATIONAL JURISDICTION'
+WHERE TRIM(name) = 'JURISDICCIÓN: CONSTITUCIONAL E INTERNACIONAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'MARKETING LAW AND CONSUMER PROTECTION'
+WHERE TRIM(name) = 'JUSTICIA DE MERCADO Y PROTECCIÓN ACTIVA DEL CONSUMIDOR'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PRIVATE INTERNATIONAL LAW'
+WHERE TRIM(name) = 'DERECHO DE LAS RELACIONES INTERNACIONALES PRIVADAS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CAPSTONE PROJECT'
+WHERE TRIM(name) = 'PROYECTO DE TITULACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATION AND SOCIETY'
+WHERE TRIM(name) = 'EDUCACIÓN Y SOCIEDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PHILOSOPHY OF EDUCATION'
+WHERE TRIM(name) = 'FILOSOFÍA DE LA EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'NEUROPHYSIOLOGY OF LEARNING AND BEHAVIOR'
+WHERE TRIM(name) = 'NEUROFISIOLOGÍA DEL APRENDIZAJE Y DEL COMPORTAMIENTO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LANGUAGE AND COMMUNICATION'
+WHERE TRIM(name) = 'LENGUAJE Y COMUNICACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'INTRODUCTION TO PEDAGOGY AND EDUCATIONAL MODELS'
+WHERE TRIM(name) = 'INTRODUCCIÓN A LA PEDAGOGÍA Y MODELOS EDUCATIVOS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'TRENDS AND ISSUES IN EDUCATION'
+WHERE TRIM(name) = 'PARADIGMAS Y TENDENCIAS EN EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'POLITICS AND EDUCATIONAL LEGISLATION'
+WHERE TRIM(name) = 'POLÍTICA Y LEGISLACIÓN EDUCATIVA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ECOLOGY AND EVOLUTION'
+WHERE TRIM(name) = 'ECOLOGÍA DEL DESARROLLO EVOLUTIVO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CRITICAL AND CREATIVE THINKING'
+WHERE TRIM(name) = 'PENSAMIENTO CRÍTICO Y CREATIVO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'STATISTICS IN EDUCATION'
+WHERE TRIM(name) = 'ESTADÍSTICA EN EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'NEURODEVELOPMENT AND LEARNING'
+WHERE TRIM(name) = 'NEURODESARROLLO ESCOLAR'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'GENERAL DIDACTICS'
+WHERE TRIM(name) = 'DIDÁCTICA GENERAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'PSYCHOLOGY OF LEARNING, MOTIVATION, AND WELL-BEING'
+WHERE TRIM(name) = 'PSICOLOGÍA DEL APRENDIZAJE, MOTIVACIÓN Y BIENESTAR'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CITIZENSHIP AND SOCIETY'
+WHERE TRIM(name) = 'CIUDADANÍA Y SOCIEDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CREATIVE AND ARTISTIC EXPRESSION'
+WHERE TRIM(name) = 'ARTE, MÚSICA Y EXPRESIÓN CREATIVA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'LITERACY INSTRUCTION'
+WHERE TRIM(name) = 'DIDÁCTICA DE LA LECTOESCRITURA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'MATHEMATICS INSTRUCTION'
+WHERE TRIM(name) = 'DIDÁCTICA DE LAS MATEMÁTICAS'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'SOCIAL STUDIES INSTRUCTION'
+WHERE TRIM(name) = 'DIDÁCTICA DE ESTUDIOS SOCIALES'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'INCLUSIVE AND INTERCULTURAL EDUCATION'
+WHERE TRIM(name) = 'EDUCACIÓN INCLUSIVA E INTERCULTURAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'SCIENCE INSTRUCTION'
+WHERE TRIM(name) = 'DIDÁCTICA DE LA CIENCIA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CURRICULUM THEORY AND DESIGN'
+WHERE TRIM(name) = 'TEORÍA Y DISEÑO CURRICULAR'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ASSESSMENT AND FEEDBACK IN EDUCATION'
+WHERE TRIM(name) = 'EVALUACIÓN Y RETROALIMENTACIÓN DEL APRENDIZAJE'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATION IN VULNERABLE CONTEXTS'
+WHERE TRIM(name) = 'PEDAGOGÍA Y EDUCACIÓN EN CONTEXTOS DE VULNERABILIDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'INCLUSIVE EDUCATION FOR EXCEPTIONAL LEARNERS'
+WHERE TRIM(name) = 'EDUCACIÓN EN ALTAS CAPACIDADES Y DISCAPACIDAD'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'SOCIAL AND EMOTIONAL LEARNING'
+WHERE TRIM(name) = 'EDUCACIÓN SOCIOEMOCIONAL'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATION TRACK I'
+WHERE TRIM(name) = 'ITINERARIO EN EDUCACIÓN I'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EMERGING TRENDS IN EDUCATION'
+WHERE TRIM(name) = 'TENDENCIAS TECNOLÓGICAS EN EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'RESEARCH METHODOLOGY IN EDUCATION'
+WHERE TRIM(name) = 'METODOLOGÍA DE LA INVESTIGACIÓN EN EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'BEHAVIOR MANAGEMENT AND INTERVENTION'
+WHERE TRIM(name) = 'INTERVENCIÓN EDUCATIVA EN PROBLEMAS DEL COMPORTAMIENTO'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'FAMILY ENGAGEMENT IN EDUCATION'
+WHERE TRIM(name) = 'FAMILIA Y EDUCACIÓN'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATION TRACK II'
+WHERE TRIM(name) = 'ITINERARIO EN EDUCACIÓN II'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ELECTIVE I'
+WHERE TRIM(name) = 'ELECTIVA I'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CURRICULUM INTEGRATION I'
+WHERE TRIM(name) = 'INTEGRACIÓN CURRICULAR I'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATIONAL LEADERSHIP AND MANAGEMENT'
+WHERE TRIM(name) = 'LIDERAZGO Y GESTIÓN EDUCATIVA'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'EDUCATION TRACK III'
+WHERE TRIM(name) = 'ITINERARIO EN EDUCACIÓN III'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'ELECTIVE II'
+WHERE TRIM(name) = 'ELECTIVA II'
+    AND company_id = 1;
+
+UPDATE dara_mallas_subject
+SET name_en = 'CURRICULUM INTEGRATION II'
+WHERE TRIM(name) = 'INTEGRACIÓN CURRICULAR II'
+    AND company_id = 1;

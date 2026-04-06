@@ -1,0 +1,26 @@
+
+            insert into dara_mallas_grade
+            (name, description, company_id)
+            values ('No Declarado ', '00',4);
+
+        
+            insert into dara_mallas_grade
+            (name, description, company_id)
+            values ('PREGRADO', 'UG',4);
+
+        
+            insert into dara_mallas_grade
+            (name, description, company_id)
+            values ('POSGRADO', 'GR',4);
+
+        
+            insert into dara_mallas_grade
+            (name, description, company_id)
+            values ('TECNICOS', 'TN',4);
+
+        
+            insert into dara_mallas_grade
+            (name, description, company_id)
+            values ('CURSOS LIBRES', 'CL',4);
+
+        

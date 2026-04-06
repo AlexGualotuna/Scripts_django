@@ -1,0 +1,2871 @@
+
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L200' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'DOCENCIA'
+                    AND p.description = 'LICENCIATURA EN DOCENCIA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L200'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L200'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L652' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTROL DE CALIDAD Y LOGISTICA'
+                    AND p.description = 'TECNICO EN CONTROL DE CALIDAD Y LOGISTICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L652'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L652'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L653' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'DISENO GRAFICO'
+                    AND p.description = 'TECNICO EN DISENO GRAFICO'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L653'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L653'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L655' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'MARKETING DIGITAL'
+                    AND p.description = 'TECNICO EN MARKETING DIGITAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L655'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L655'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L656' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'SUPERVISION DE LA PRODUCCION'
+                    AND p.description = 'TECNICO EN SUPERVISION DE LA PRODUCCION'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L656'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L656'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L700' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'MICROSOFT EXCEL ACADEMIC'
+                    AND p.description = 'CURSO LIBRE EN MICROSOFT EXCEL ACADEMIC'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L700'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L700'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L701' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'MICROSOFT EXCEL BUSINESS'
+                    AND p.description = 'CURSO LIBRE EN MICROSOFT EXCEL BUSINESS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L701'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L701'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L702' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTRATACION ADMINISTRATIVA'
+                    AND p.description = 'CURSO LIBRE EN CONTRATACION ADMINISTRATIVA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L702'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L702'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L703' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'SAP I'
+                    AND p.description = 'CURSO LIBRE EN SAP I'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L703'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L703'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L704' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'SAP II'
+                    AND p.description = 'CURSO LIBRE EN SAP II'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L704'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L704'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L705' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CERTIFICACION YELLOW BELT'
+                    AND p.description = 'CURSO LIBRE EN CERTIFICACION YELLOW BELT'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L705'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L705'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L706' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'LESCO I'
+                    AND p.description = 'CURSO LIBRE EN LESCO I'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L706'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L706'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L707' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'LESCO II'
+                    AND p.description = 'CURSO LIBRE EN LESCO II'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L707'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L707'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L708' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'LESCO III'
+                    AND p.description = 'CURSO LIBRE EN LESCO III'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L708'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L708'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L709' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CCNA 01'
+                    AND p.description = 'CURSO LIBRE EN CCNA 01'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L709'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L709'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L710' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CCNA 02'
+                    AND p.description = 'CURSO LIBRE EN CCNA 02'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L710'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L710'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L711' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CCNA 03'
+                    AND p.description = 'CURSO LIBRE EN CCNA 03'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L711'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L711'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L712' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CERTIFICACION SCRUM MASTER'
+                    AND p.description = 'CURSO LIBRE EN CERTIFICACION SCRUM MASTER'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L712'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L712'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '001' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS'
+                    AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '001'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '001'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '001' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS'
+                    AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202103'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '001'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '001'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '002' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+                    AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '002'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '002'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '003' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+                    AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '003'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '003'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '004' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '004'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '004'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '005' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '005'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '005'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '006' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '006'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '006'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '007' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '007'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '007'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '008' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '008'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '008'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '010' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '010'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '010'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '011' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '011'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '011'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '012' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTADURIA'
+                    AND p.description = 'BACHILLERATO EN CONTADURIA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '012'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '012'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '012' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTADURIA'
+                    AND p.description = 'BACHILLERATO EN CONTADURIA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202303'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '012'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '012'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '013' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'DERECHO'
+                    AND p.description = 'BACHILLERATO EN DERECHO'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '013'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '013'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '014' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'DISENO PUBLICITARIO'
+                    AND p.description = 'BACHILLERATO EN DISENO PUBLICITARIO'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '014'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '014'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '015' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'GESTION DE PROCESOS'
+                    AND p.description = 'BACHILLERATO EN GESTION DE PROCESOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '015'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '015'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '016' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA EN SISTEMAS'
+                    AND p.description = 'BACHILLERATO EN INGENIERIA EN SISTEMAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '016'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '016'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '016' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA EN SISTEMAS'
+                    AND p.description = 'BACHILLERATO EN INGENIERIA EN SISTEMAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202201'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '016'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '016'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '017' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA INDUSTRIAL'
+                    AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '201901'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '017'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '017'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '017' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA INDUSTRIAL'
+                    AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '017'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '017'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '017' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA INDUSTRIAL'
+                    AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202201'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '017'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '017'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '018' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ENSENANZA DEL INGLES'
+                    AND p.description = 'BACHILLERATO EN ENSENANZA DEL INGLES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202301'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '018'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '018'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '018' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ENSENANZA DEL INGLES'
+                    AND p.description = 'BACHILLERATO EN ENSENANZA DEL INGLES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '018'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '018'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '019' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'PUBLICIDAD'
+                    AND p.description = 'BACHILLERATO EN PUBLICIDAD'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '019'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '019'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '020' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'TERAPIA FISICA'
+                    AND p.description = 'BACHILLERATO EN TERAPIA FISICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '020'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '020'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '021' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ESTADISTICA APLICADA A LAS EMPRESAS'
+                    AND p.description = 'BACHILLERATO EN ESTADISTICA APLICADA A LAS EMPRESAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '021'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '021'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '022' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION PREESCOLAR'
+                    AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION PREESCOLAR'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '022'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '022'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '200' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS'
+                    AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202303'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '200'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '200'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '200' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS'
+                    AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '200'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '200'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '201' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+                    AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '201'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '201'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '203' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+                    AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '203'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '203'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '205' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+                    AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '205'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '205'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '206' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+                    AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '206'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '206'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '207' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+                    AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '207'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '207'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '208' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+                    AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '208'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '208'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '210' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'COMUNICACION DE MERCADEO'
+                    AND p.description = 'LICENCIATURA EN COMUNICACION DE MERCADEO'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '210'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '210'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '211' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTADURIA PUBLICA'
+                    AND p.description = 'LICENCIATURA EN CONTADURIA PUBLICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '211'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '211'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '212' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'DERECHO'
+                    AND p.description = 'LICENCIATURA EN DERECHO'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '212'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '212'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '213' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ENSENANZA DEL INGLES'
+                    AND p.description = 'LICENCIATURA EN ENSENANZA DEL INGLES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '202301'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '213'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '213'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '213' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ENSENANZA DEL INGLES'
+                    AND p.description = 'LICENCIATURA EN ENSENANZA DEL INGLES'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '213'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '213'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '214' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'GESTION DE PROCESOS'
+                    AND p.description = 'LICENCIATURA EN GESTION DE PROCESOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '214'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '214'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '215' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'INGENIERIA INDUSTRIAL'
+                    AND p.description = 'LICENCIATURA EN INGENIERIA INDUSTRIAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '215'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '215'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '216' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'TERAPIA FISICA'
+                    AND p.description = 'LICENCIATURA EN TERAPIA FISICA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '216'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '216'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '450' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION EDUCATIVA'
+                    AND p.description = 'MAESTRÍA EN ADMINISTRACION EDUCATIVA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '450'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '450'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '451' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+                    AND p.description = 'MAESTRÍA EN CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '451'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '451'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '500' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'FINANZAS Y BANCA'
+                    AND p.description = 'MAESTRIA PROFESIONAL EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN FINANZAS Y BANCA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '500'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '500'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L550' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'ADMINISTRACION DE EMPRESAS'
+                    AND p.description = 'TECNICO EN ADMINISTRACION DE EMPRESAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L550'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L550'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L551' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CONTABILIDAD Y FINANZAS'
+                    AND p.description = 'TECNICO EN CONTABILIDAD Y FINANZAS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L551'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L551'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L552' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'RECURSOS HUMANOS'
+                    AND p.description = 'TECNICO EN RECURSOS HUMANOS'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L552'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L552'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    '209' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+                    AND p.description = 'LICENCIATURA EN COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = '209'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = '209'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L553' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+                    AND p.description = 'TECNICO EN CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L553'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L553'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        
+            INSERT INTO dara_mallas_specialization_major
+                (
+                    name,
+                    "number",
+                    code,
+                    specialization_id,
+                    saes_code_id,
+                    company_id
+                )
+                SELECT
+                    'L554' AS name,
+                    0 AS "number",
+                    0 AS code,
+                    s.id AS specialization_id,
+                    sc.id AS saes_code_id,
+                    4 AS company_id
+                FROM dara_mallas_specialization s
+                JOIN dara_mallas_program p
+                    ON p.id = s.program_id
+                    AND p.name = 'SUPERVISION DE LA PRODUCCION'
+                    AND p.description = 'TECNICO EN SUPERVISION DE LA PRODUCCION'
+                    AND p.period_id = (
+                        SELECT id
+                        FROM dara_mallas_period
+                        WHERE name = '000000'
+                        AND company_id = 4
+                    )
+                    AND p.company_id = 4
+                JOIN dara_mallas_saes_code sc
+                    ON sc.name = 'L554'
+                    AND sc.company_id = 4
+                WHERE s.company_id = 4
+                AND NOT EXISTS (
+                    SELECT 1
+                    FROM dara_mallas_specialization_major sm
+                    WHERE sm.name = 'L554'
+                    AND sm.specialization_id = s.id
+                    AND sm.saes_code_id = sc.id
+                    AND sm.company_id = 4
+                );
+        

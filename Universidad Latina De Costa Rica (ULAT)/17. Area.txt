@@ -1,0 +1,6186 @@
+
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 01', '001-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 02', '001-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 03', '001-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 04', '001-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 05', '001-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 06', '001-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 07', '001-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 08', '001-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 01', '002-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 02', '002-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 03', '002-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 04', '002-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 05', '002-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 06', '002-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 07', '002-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('002-CUATRIMESTRE 08', '002-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 01', '003-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 02', '003-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 03', '003-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 04', '003-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 05', '003-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 06', '003-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 07', '003-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('003-CUATRIMESTRE 08', '003-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 01', '005-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 02', '005-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 03', '005-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 04', '005-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 05', '005-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 06', '005-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 07', '005-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('005-CUATRIMESTRE 08', '005-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 01', '006-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 02', '006-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 03', '006-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 04', '006-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 05', '006-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 06', '006-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 07', '006-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('006-CUATRIMESTRE 08', '006-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 01', '007-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 02', '007-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 03', '007-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 04', '007-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 05', '007-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 06', '007-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 07', '007-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('007-CUATRIMESTRE 08', '007-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 01', '008-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 02', '008-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 03', '008-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 04', '008-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 05', '008-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 06', '008-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 07', '008-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('008-CUATRIMESTRE 08', '008-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 01', '009-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 02', '009-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 03', '009-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 04', '009-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 05', '009-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 06', '009-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 07', '009-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('009-CUATRIMESTRE 08', '009-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 01', '010-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 02', '010-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 03', '010-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 04', '010-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 05', '010-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 06', '010-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 07', '010-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 08', '010-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('010-CUATRIMESTRE 09', '010-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 01', '011-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 02', '011-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 03', '011-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 04', '011-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 05', '011-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 06', '011-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 07', '011-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('011-CUATRIMESTRE 08', '011-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 01', '012-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 02', '012-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 03', '012-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 04', '012-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 05', '012-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 06', '012-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 07', '012-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('012-CUATRIMESTRE 08', '012-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 01', '013-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 02', '013-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 03', '013-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 04', '013-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 05', '013-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 06', '013-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 07', '013-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 08', '013-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 09', '013-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('013-CUATRIMESTRE 10', '013-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 01', '015-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 02', '015-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 03', '015-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 04', '015-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 05', '015-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 06', '015-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 07', '015-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 08', '015-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('015-CUATRIMESTRE 09', '015-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 01', '016-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 02', '016-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 03', '016-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 04', '016-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 05', '016-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 06', '016-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 07', '016-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 08', '016-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 09', '016-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('016-CUATRIMESTRE 10', '016-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 01', '017-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 02', '017-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 03', '017-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 04', '017-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 05', '017-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 06', '017-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 07', '017-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('017-CUATRIMESTRE 08', '017-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 01', '018-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 02', '018-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 03', '018-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 04', '018-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 05', '018-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 06', '018-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 07', '018-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('018-CUATRIMESTRE 08', '018-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 01', '019-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 02', '019-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 03', '019-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 04', '019-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 05', '019-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 06', '019-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 07', '019-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('019-CUATRIMESTRE 08', '019-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 01', '020-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 02', '020-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 03', '020-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 04', '020-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 05', '020-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 06', '020-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 07', '020-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('020-CUATRIMESTRE 08', '020-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 01', '021-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 02', '021-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 03', '021-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 04', '021-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 05', '021-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 06', '021-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 07', '021-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('021-CUATRIMESTRE 08', '021-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 01', '022-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 02', '022-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 03', '022-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 04', '022-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 05', '022-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 06', '022-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 07', '022-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('022-CUATRIMESTRE 08', '022-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 01', '023-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 02', '023-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 03', '023-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 04', '023-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 05', '023-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 06', '023-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 07', '023-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 08', '023-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 09', '023-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('023-CUATRIMESTRE 10', '023-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 01', '024-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 02', '024-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 03', '024-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 04', '024-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 05', '024-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 06', '024-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 07', '024-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('024-CUATRIMESTRE 08', '024-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 01', '025-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 02', '025-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 03', '025-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 04', '025-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 05', '025-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 06', '025-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 07', '025-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 08', '025-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('025-CUATRIMESTRE 09', '025-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 01', '026-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 02', '026-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 03', '026-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 04', '026-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 05', '026-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 06', '026-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 07', '026-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 08', '026-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('026-CUATRIMESTRE 09', '026-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 01', '027-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 02', '027-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 03', '027-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 04', '027-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 05', '027-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 06', '027-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 07', '027-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 08', '027-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('027-CUATRIMESTRE 09', '027-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 01', '028-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 02', '028-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 03', '028-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 04', '028-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 05', '028-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 06', '028-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 07', '028-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 08', '028-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 09', '028-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('028-CUATRIMESTRE 10', '028-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 01', '029-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 02', '029-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 03', '029-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 04', '029-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 05', '029-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 06', '029-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 07', '029-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 08', '029-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('029-CUATRIMESTRE 09', '029-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 01', '030-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 02', '030-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 03', '030-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 04', '030-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 05', '030-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 06', '030-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 07', '030-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 08', '030-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('030-CUATRIMESTRE 09', '030-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 01', '031-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 02', '031-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 03', '031-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 04', '031-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 05', '031-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 06', '031-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 07', '031-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 08', '031-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('031-CUATRIMESTRE 09', '031-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 01', '032-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 02', '032-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 03', '032-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 04', '032-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 05', '032-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 06', '032-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 07', '032-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 08', '032-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 09', '032-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 10', '032-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('032-CUATRIMESTRE 11', '032-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 01', '033-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 02', '033-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 03', '033-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 04', '033-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 05', '033-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 06', '033-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 07', '033-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 08', '033-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('033-CUATRIMESTRE 09', '033-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 01', '200-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 02', '200-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 03', '200-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 04', '200-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 05', '200-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 06', '200-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 07', '200-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 08', '200-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 09', '200-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 10', '200-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 11', '200-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 12', '200-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 13', '200-C13', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 14', '200-C14', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('200-CUATRIMESTRE 15', '200-C15', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('201-CUATRIMESTRE 01', '201-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('201-CUATRIMESTRE 02', '201-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('201-CUATRIMESTRE 03', '201-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('201-CUATRIMESTRE 04', '201-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('202-CUATRIMESTRE 01', '202-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('202-CUATRIMESTRE 02', '202-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('202-CUATRIMESTRE 03', '202-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('202-CUATRIMESTRE 04', '202-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('203-CUATRIMESTRE 01', '203-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('203-CUATRIMESTRE 02', '203-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('203-CUATRIMESTRE 03', '203-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('203-CUATRIMESTRE 04', '203-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('204-CUATRIMESTRE 01', '204-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('204-CUATRIMESTRE 02', '204-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('204-CUATRIMESTRE 03', '204-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('204-CUATRIMESTRE 04', '204-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('205-CUATRIMESTRE 01', '205-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('205-CUATRIMESTRE 02', '205-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('205-CUATRIMESTRE 03', '205-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('205-CUATRIMESTRE 04', '205-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 01', '206-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 02', '206-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 03', '206-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 04', '206-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 05', '206-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 06', '206-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 07', '206-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 08', '206-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 09', '206-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('206-CUATRIMESTRE 10', '206-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 01', '207-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 02', '207-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 03', '207-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 04', '207-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 05', '207-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 06', '207-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 07', '207-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 08', '207-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 09', '207-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 10', '207-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 11', '207-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 12', '207-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('207-CUATRIMESTRE 13', '207-C13', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 01', '208-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 02', '208-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 03', '208-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 04', '208-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 05', '208-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 06', '208-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 07', '208-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 08', '208-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 09', '208-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 10', '208-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 11', '208-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 12', '208-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 13', '208-C13', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('208-CUATRIMESTRE 14', '208-C14', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 01', '209-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 02', '209-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 03', '209-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 04', '209-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 05', '209-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 06', '209-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 07', '209-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 08', '209-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 09', '209-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 10', '209-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('209-CUATRIMESTRE 11', '209-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 01', '210-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 02', '210-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 03', '210-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 04', '210-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 05', '210-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 06', '210-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 07', '210-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 08', '210-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 09', '210-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 10', '210-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 11', '210-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 12', '210-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('210-CUATRIMESTRE 13', '210-C13', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 01', '211-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 02', '211-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 03', '211-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 04', '211-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 05', '211-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 06', '211-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 07', '211-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 08', '211-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 09', '211-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('211-CUATRIMESTRE 10', '211-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 01', '212-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 02', '212-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 03', '212-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 04', '212-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 05', '212-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 06', '212-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 07', '212-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 08', '212-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 09', '212-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 10', '212-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('212-CUATRIMESTRE 11', '212-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 01', '213-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 02', '213-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 03', '213-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('001-CUATRIMESTRE 04', '213-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 01', '214-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 02', '214-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 03', '214-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 04', '214-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 05', '214-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 06', '214-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 07', '214-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 08', '214-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 09', '214-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 10', '214-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 11', '214-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('214-CUATRIMESTRE 12', '214-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('217-CUATRIMESTRE 01', '217-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('217-CUATRIMESTRE 02', '217-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('217-CUATRIMESTRE 03', '217-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('217-CUATRIMESTRE 04', '217-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('218-CUATRIMESTRE 01', '218-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('218-CUATRIMESTRE 02', '218-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('218-CUATRIMESTRE 03', '218-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('218-CUATRIMESTRE 04', '218-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('219-CUATRIMESTRE 01', '219-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('219-CUATRIMESTRE 02', '219-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('219-CUATRIMESTRE 03', '219-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('219-CUATRIMESTRE 04', '219-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('220-CUATRIMESTRE 01', '220-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('220-CUATRIMESTRE 02', '220-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('220-CUATRIMESTRE 03', '220-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('220-CUATRIMESTRE 04', '220-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('222-CUATRIMESTRE 01', '222-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('222-CUATRIMESTRE 02', '222-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('222-CUATRIMESTRE 03', '222-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('223-CUATRIMESTRE 01', '223-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('223-CUATRIMESTRE 02', '223-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('223-CUATRIMESTRE 03', '223-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('224-CUATRIMESTRE 01', '224-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('224-CUATRIMESTRE 02', '224-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('224-CUATRIMESTRE 03', '224-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 01', '225-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 02', '225-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 03', '225-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 04', '225-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 05', '225-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 06', '225-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 07', '225-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 08', '225-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 09', '225-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 10', '225-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('225-CUATRIMESTRE 11', '225-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('226-CUATRIMESTRE 01', '226-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('226-CUATRIMESTRE 02', '226-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('226-CUATRIMESTRE 03', '226-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('229-CUATRIMESTRE 01', '229-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('229-CUATRIMESTRE 02', '229-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('230-CUATRIMESTRE 01', '230-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('230-CUATRIMESTRE 02', '230-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('230-CUATRIMESTRE 03', '230-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('230-CUATRIMESTRE 04', '230-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('231-CUATRIMESTRE 01', '231-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('231-CUATRIMESTRE 02', '231-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('231-CUATRIMESTRE 03', '231-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('231-CUATRIMESTRE 04', '231-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('233-CUATRIMESTRE 01', '233-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('233-CUATRIMESTRE 02', '233-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('233-CUATRIMESTRE 03', '233-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('234-CUATRIMESTRE 01', '234-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('234-CUATRIMESTRE 02', '234-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('234-CUATRIMESTRE 03', '234-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('236-CUATRIMESTRE 01', '236-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('236-CUATRIMESTRE 02', '236-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('236-CUATRIMESTRE 03', '236-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('237-CUATRIMESTRE 01', '237-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('237-CUATRIMESTRE 02', '237-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('237-CUATRIMESTRE 03', '237-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('238-CUATRIMESTRE 01', '238-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('238-CUATRIMESTRE 02', '238-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('238-CUATRIMESTRE 03', '238-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('239-CUATRIMESTRE 01', '239-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('239-CUATRIMESTRE 02', '239-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('239-CUATRIMESTRE 03', '239-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('240-CUATRIMESTRE 01', '240-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('240-CUATRIMESTRE 02', '240-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('240-CUATRIMESTRE 03', '240-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('241-CUATRIMESTRE 01', '241-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('241-CUATRIMESTRE 02', '241-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('241-CUATRIMESTRE 03', '241-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('242-CUATRIMESTRE 01', '242-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('242-CUATRIMESTRE 02', '242-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('242-CUATRIMESTRE 03', '242-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('243-CUATRIMESTRE 01', '243-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('243-CUATRIMESTRE 02', '243-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('243-CUATRIMESTRE 03', '243-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('243-CUATRIMESTRE 04', '243-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 01', '244-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 02', '244-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 03', '244-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 04', '244-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 05', '244-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 06', '244-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 07', '244-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 08', '244-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 09', '244-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 10', '244-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 11', '244-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('244-CUATRIMESTRE 12', '244-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('245-CUATRIMESTRE 01', '245-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('245-CUATRIMESTRE 02', '245-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('245-CUATRIMESTRE 03', '245-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('246-CUATRIMESTRE 01', '246-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('246-CUATRIMESTRE 02', '246-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('246-CUATRIMESTRE 03', '246-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('247-CUATRIMESTRE 01', '247-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('247-CUATRIMESTRE 02', '247-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('247-CUATRIMESTRE 03', '247-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('400-CUATRIMESTRE 01', '400-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('400-CUATRIMESTRE 02', '400-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('400-CUATRIMESTRE 03', '400-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 01', '401-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 02', '401-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 03', '401-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 04', '401-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 05', '401-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('401-CUATRIMESTRE 06', '401-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('402-CUATRIMESTRE 01', '402-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('402-CUATRIMESTRE 02', '402-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('402-CUATRIMESTRE 03', '402-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 01', '403-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 02', '403-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 03', '403-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 04', '403-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 05', '403-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('403-CUATRIMESTRE 06', '403-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 01', '404-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 02', '404-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 03', '404-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 04', '404-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 05', '404-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('404-CUATRIMESTRE 06', '404-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-NIVELATORIO 00', '450-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 01', '450-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 02', '450-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 03', '450-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 04', '450-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 05', '450-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('450-TRIMESTRE 06', '450-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '450-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L451-NIVELATORIO 00', 'L451-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 01', 'L451-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 02', 'L451-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 03', 'L451-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 04', 'L451-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 05', 'L451-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 06', 'L451-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', 'L451-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-NIVELATORIO 00', '452-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 01', '452-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 02', '452-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 03', '452-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 04', '452-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 05', '452-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('452-TRIMESTRE 06', '452-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '452-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-NIVELATORIO 00', '453-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 01', '453-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 02', '453-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 03', '453-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 04', '453-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 05', '453-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('453-TRIMESTRE 06', '453-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '453-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-NIVELATORIO 00', '454-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 01', '454-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 02', '454-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 03', '454-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 04', '454-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 05', '454-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('454-TRIMESTRE 06', '454-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '454-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('455-CUATRIMESTRE 01', '455-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('455-CUATRIMESTRE 02', '455-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('455-CUATRIMESTRE 03', '455-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('455-CUATRIMESTRE 04', '455-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('456-CUATRIMESTRE 01', '456-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('456-CUATRIMESTRE 02', '456-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('456-CUATRIMESTRE 03', '456-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('456-CUATRIMESTRE 04', '456-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('457-CUATRIMESTRE 01', '457-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('457-CUATRIMESTRE 02', '457-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('457-CUATRIMESTRE 03', '457-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('457-CUATRIMESTRE 04', '457-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '457-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('458-CUATRIMESTRE 01', '458-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('458-CUATRIMESTRE 02', '458-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('458-CUATRIMESTRE 03', '458-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('458-CUATRIMESTRE 04', '458-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('500-CUATRIMESTRE 01', '500-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('500-CUATRIMESTRE 02', '500-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('500-CUATRIMESTRE 03', '500-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('500-CUATRIMESTRE 04', '500-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('500-CUATRIMESTRE 05', '500-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO GRADUACION', '500-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('501-CUATRIMESTRE 01', '501-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('501-CUATRIMESTRE 02', '501-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('501-CUATRIMESTRE 03', '501-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('501-CUATRIMESTRE 04', '501-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('501-CUATRIMESTRE 05', '501-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO GRADUACION', '501-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('502-CUATRIMESTRE 01', '502-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('502-CUATRIMESTRE 02', '502-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('502-CUATRIMESTRE 03', '502-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('502-CUATRIMESTRE 04', '502-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('502-CUATRIMESTRE 05', '502-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO GRADUACION', '502-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('503-CUATRIMESTRE 01', '503-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('503-CUATRIMESTRE 02', '503-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('503-CUATRIMESTRE 03', '503-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('503-CUATRIMESTRE 04', '503-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('503-CUATRIMESTRE 05', '503-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO GRADUACION', '503-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('504-CUATRIMESTRE 01', '504-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('504-CUATRIMESTRE 02', '504-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('504-CUATRIMESTRE 03', '504-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('504-CUATRIMESTRE 04', '504-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '504-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('505-CUATRIMESTRE 01', '505-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('505-CUATRIMESTRE 02', '505-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('505-CUATRIMESTRE 03', '505-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('505-CUATRIMESTRE 04', '505-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('505-CUATRIMESTRE 05', '505-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '505-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('506-CUATRIMESTRE 01', '506-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('506-CUATRIMESTRE 02', '506-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('506-CUATRIMESTRE 03', '506-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('506-CUATRIMESTRE 04', '506-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-NIVELATORIO 00', '507-C00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-CUATRIMESTRE 01', '507-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-CUATRIMESTRE 02', '507-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-CUATRIMESTRE 03', '507-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-CUATRIMESTRE 04', '507-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('507-CUATRIMESTRE 05', '507-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('508-CUATRIMESTRE 00', '508-C00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('508-CUATRIMESTRE 01', '508-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('508-CUATRIMESTRE 02', '508-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('508-CUATRIMESTRE 03', '508-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('508-CUATRIMESTRE 04', '508-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-NIVELATORIO 00', '509-C00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-CUATRIMESTRE 01', '509-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-CUATRIMESTRE 02', '509-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-CUATRIMESTRE 03', '509-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-CUATRIMESTRE 04', '509-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('509-CUATRIMESTRE 05', '509-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '509-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-NIVELATORIO 00', '510-C00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 01', '510-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 02', '510-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 03', '510-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 04', '510-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 05', '510-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 06', '510-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 07', '510-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('510-CUATRIMESTRE 08', '510-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '510-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 01', '600-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 02', '600-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 03', '600-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 04', '600-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 05', '600-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 06', '600-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 07', '600-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 08', '600-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('600-BIMENSUAL 09', '600-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 01', '601-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 02', '601-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 03', '601-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 04', '601-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 05', '601-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 06', '601-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 07', '601-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 08', '601-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('601-BIMENSUAL 09', '601-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 01', 'L602-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 02', 'L602-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 03', 'L602-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 04', 'L602-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 05', 'L602-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 06', 'L602-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 07', 'L602-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('602-BIMENSUAL 08', 'L602-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 01', '603-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 02', '603-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 03', '603-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 04', '603-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 05', '603-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 06', '603-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 07', '603-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 08', '603-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('603-BIMENSUAL 09', '603-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('604-BIMENSUAL 01', '604-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('604-BIMENSUAL 02', '604-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('604-BIMENSUAL 03', '604-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('604-BIMENSUAL 04', '604-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('604-BIMENSUAL 05', '604-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 01', '605-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 02', '605-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 03', '605-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 04', '605-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 05', '605-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 06', '605-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 07', '605-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 08', '605-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('605-BIMENSUAL 09', '605-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 01', '606-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 02', '606-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 03', '606-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 04', '606-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 05', '606-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 06', '606-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 07', '606-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 08', '606-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('606-BIMENSUAL 09', '606-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 01', 'L650-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 02', 'L650-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 03', 'L650-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 04', 'L650-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 05', 'L650-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 06', 'L650-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 07', 'L650-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('650-BIMENSUAL 08', 'L650-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('651-BIMENSUAL 01', '651-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('651-BIMENSUAL 02', '651-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('651-BIMENSUAL 03', '651-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('651-BIMENSUAL 04', '651-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 01', '652-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 02', '652-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 03', '652-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 04', '652-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 05', '652-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 06', '652-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 07', '652-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 08', '652-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 09', '652-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 10', '652-B10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 11', '652-B11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('652-BIMENSUAL 12', '652-B12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('653-BIMENSUAL 01', 'L653-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('653-BIMENSUAL 02', 'L653-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('653-BIMENSUAL 03', 'L653-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('653-BIMENSUAL 04', 'L653-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('653-BIMENSUAL 05', 'L653-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 01', 'L654-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 02', 'L654-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 03', 'L654-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 04', 'L654-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 05', 'L654-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 06', 'L654-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 07', 'L654-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('654-BIMENSUAL 08', 'L654-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('655-BIMENSUAL 01', 'L655-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('655-BIMENSUAL 02', 'L655-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('655-BIMENSUAL 03', 'L655-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('655-BIMENSUAL 04', 'L655-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('655-BIMENSUAL 05', 'L655-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 01', '800-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 02', '800-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 03', '800-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 04', '800-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 05', '800-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 06', '800-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 07', '800-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 08', '800-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('800-BIMENSUAL 09', '800-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 01', '801-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 02', '801-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 03', '801-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 04', '801-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 05', '801-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 06', '801-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 07', '801-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 08', '801-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('801-BIMENSUAL 09', '801-B09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('802-TRIMESTRAL 01', '802-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('802-TRIMESTRAL 02', '802-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L200-CUATRIMESTRE 01', 'L200-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L200-CUATRIMESTRE 02', 'L200-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L200-CUATRIMESTRE 03', 'L200-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L200-CUATRIMESTRE 04', 'L200-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L200-CUATRIMESTRE 05', 'L200-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-NIVELATORIO 00', 'L450-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 01', 'L450-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 02', 'L450-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 03', 'L450-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 04', 'L450-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 05', 'L450-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L450-TRIMESTRE 06', 'L450-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', 'L450-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-NIVELATORIO 00', 'L452-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 01', 'L452-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 02', 'L452-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 03', 'L452-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 04', 'L452-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 05', 'L452-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L452-TRIMESTRE 06', 'L452-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', 'L452-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-NIVELATORIO 00', 'L453-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 01', 'L453-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 02', 'L453-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 03', 'L453-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 04', 'L453-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 05', 'L453-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L453-TRIMESTRE 06', 'L453-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', 'L453-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L700-ANUAL 01', 'L700-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 01', 'L701-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 02', 'L701-A02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 03', 'L701-A03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 04', 'L701-A04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 05', 'L701-A05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 06', 'L701-A06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 07', 'L701-A07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 08', 'L701-A08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L701-ANUAL 09', 'L701-A09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 01', 'L702-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 02', 'L702-A02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 03', 'L702-A03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 04', 'L702-A04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 05', 'L702-A05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 06', 'L702-A06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 07', 'L702-A07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 08', 'L702-A08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 09', 'L702-A09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L702-ANUAL 10', 'L702-A10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L703-ANUAL 01', 'L703-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L704-ANUAL 01', 'L704-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L705-ANUAL 01', 'L705-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L706-ANUAL 01', 'L706-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L706-ANUAL 02', 'L706-A02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L708-ANUAL 01', 'L708-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L709-ANUAL 01', 'L709-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L710-ANUAL 01', 'L710-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L711-ANUAL 01', 'L711-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L712-ANUAL 01', 'L712-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L713-ANUAL 01', 'L713-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L714-ANUAL 01', 'L714-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L715-ANUAL 01', 'L715-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L716-ANUAL 01', 'L716-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L717-ANUAL 01', 'L717-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L718-ANUAL 01', 'L718-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L719-ANUAL 01', 'L719-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L720-ANUAL 01', 'L720-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L721-ANUAL 01', 'L721-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L722-ANUAL 01', 'L722-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L723-ANUAL 01', 'L723-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L724-ANUAL 01', 'L724-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L725-ANUAL 01', 'L725-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 01', 'L727-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 02', 'L727-A02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 03', 'L727-A03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 04', 'L727-A04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 05', 'L727-A05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L727-ANUAL 06', 'L727-A06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 01', 'L728-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 02', 'L728-A02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 03', 'L728-A03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 04', 'L728-A04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 05', 'L728-A05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 06', 'L728-A06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 07', 'L728-A07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 08', 'L728-A08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 09', 'L728-A09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 10', 'L728-A10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 11', 'L728-A11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 12', 'L728-A12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 13', 'L728-A13', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L728-ANUAL 14', 'L728-A14', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L729-ANUAL 01', 'L729-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L730-ANUAL 01', 'L730-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L731-ANUAL 01', 'L731-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L850-BIMENSUAL 01', 'L850-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L851-BIMENSUAL 01', 'L851-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L852-BIMENSUAL 01', 'L852-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L853-BIMENSUAL 01', 'L853-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L854-BIMENSUAL 01', 'L854-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L855-BIMENSUAL 01', 'L855-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L856-BIMENSUAL 01', 'L856-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L857-BIMENSUAL 01', 'L857-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L858-BIMENSUAL 01', 'L858-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L859-BIMENSUAL 01', 'L859-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L860-BIMENSUAL 01', 'L860-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L861-BIMENSUAL 01', 'L861-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L862-BIMENSUAL 01', 'L862-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L863-BIMENSUAL 01', 'L863-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L864-BIMENSUAL 01', 'L864-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L865-BIMENSUAL 01', 'L865-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L866-BIMENSUAL 01', 'L866-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L867-BIMENSUAL 01', 'L867-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L868-BIMENSUAL 01', 'L868-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L869-BIMENSUAL 01', 'L869-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L870-BIMENSUAL 01', 'L870-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L900-BIMENSUAL 01', 'L900-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L900-BIMENSUAL 02', 'L900-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L900-BIMENSUAL 03', 'L900-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 01', 'A950-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 02', 'A950-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 03', 'A950-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 04', 'A950-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 05', 'A950-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A950-BIMENSUAL 06', 'A950-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 01', 'A951-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 02', 'A951-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 03', 'A951-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 04', 'A951-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 05', 'A951-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A951-BIMENSUAL 06', 'A951-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 01', 'A952-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 02', 'A952-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 03', 'A952-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 04', 'A952-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 05', 'A952-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A952-BIMENSUAL 06', 'A952-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 01', 'A953-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 02', 'A953-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 03', 'A953-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 04', 'A953-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 05', 'A953-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A953-BIMENSUAL 06', 'A953-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A954-BIMENSUAL 01', 'A954-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A954-BIMENSUAL 02', 'A954-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A954-BIMENSUAL 03', 'A954-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('954-BIMENSUAL 04', 'A954-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A954-BIMENSUAL 05', 'A954-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A954-BIMENSUAL 06', 'A954-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A955-BIMENSUAL 01', 'A955-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A955-BIMENSUAL 02', 'A955-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('955-BIMENSUAL 03', 'A955-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A955-BIMENSUAL 04', 'A955-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A955-BIMENSUAL 05', 'A955-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A955-BIMENSUAL 06', 'A955-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 01', 'L956-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 02', 'L956-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 03', 'L956-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 04', 'L956-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 05', 'L956-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L956-BIMENSUAL 06', 'L956-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 01', 'L957-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 02', 'L957-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 03', 'L957-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 04', 'L957-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 05', 'L957-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L957-BIMENSUAL 06', 'L957-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 01', 'A958-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 02', 'A958-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 03', 'A958-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 04', 'A958-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 05', 'A958-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A958-BIMENSUAL 06', 'A958-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 01', 'A959-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 02', 'A959-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 03', 'A959-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 04', 'A959-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 05', 'A959-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A959-BIMENSUAL 06', 'A959-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 01', 'A960-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 02', 'A960-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 03', 'A960-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 04', 'A960-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 05', 'A960-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A960-BIMENSUAL 06', 'A960-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 01', 'A961-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 02', 'A961-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 03', 'A961-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 04', 'A961-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 05', 'A961-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A961-BIMENSUAL 06', 'A961-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 01', '962-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 02', '962-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 03', '962-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 04', '962-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 05', '962-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('962-BIMENSUAL 06', '962-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 01', 'L963-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 02', 'L963-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 03', 'L963-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 04', 'L963-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 05', 'L963-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L963-BIMENSUAL 06', 'L963-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 01', 'A964-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 02', 'A964-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 03', 'A964-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 04', 'A964-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 05', 'A964-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A964-BIMENSUAL 06', 'A964-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 01', 'L965-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 02', 'L965-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 03', 'L965-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 04', 'L965-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 05', 'L965-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L965-BIMENSUAL 06', 'L965-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 01', 'A966-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 02', 'A966-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 03', 'A966-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 04', 'A966-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 05', 'A966-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A966-BIMENSUAL 06', 'A966-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A967-BIMENSUAL 01', 'A967-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A967-BIMENSUAL 02', 'A967-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A967-BIMENSUAL 03', 'A967-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A967-BIMENSUAL 04', 'A967-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A967-BIMENSUAL 05', 'A967-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L967-BIMENSUAL 06', 'A967-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 01', 'L968-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 02', 'L968-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 03', 'L968-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 04', 'L968-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 05', 'L968-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L968-BIMENSUAL 06', 'L968-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 01', 'A969-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 02', 'A969-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 03', 'A969-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 04', 'A969-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 05', 'A969-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A969-BIMENSUAL 06', 'A969-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-NIVELATORIO 00', '451-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 01', '451-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 02', '451-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 03', '451-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 04', '451-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 05', '451-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('451-TRIMESTRE 06', '451-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('REQUISITO DE GRADUACION', '451-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 01', '232-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 02', '232-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 03', '232-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 04', '232-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 05', '232-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 06', '232-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 07', '232-C07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 08', '232-C08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 09', '232-C09', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 10', '232-C10', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 11', '232-C11', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('232-CUATRIMESTRE 12', '232-C12', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('TCU UG', 'DIN-TCU', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('CURSOS SELLOS UG', 'DIN-02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('CURSOS SELLOS UG', 'DIN-01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('CURSOS SELLOS UG', 'DIN-03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('805-BIMESTRE 01', '805-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('805-BIMESTRE 02', '805-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('805-BIMESTRE 03', '805-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('805-BIMESTRE 04', '805-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('804-BIMESTRE 01', '804-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('804-BIMESTRE 02', '804-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('804-BIMESTRE 03', '804-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 01', '803-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 02', '803-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 03', '803-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 04', '803-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 05', '803-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 06', '803-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 07', '803-B07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('803-BIMESTRE 08', '803-B08', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L740-ANUAL 01', 'L740-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('739-ANUAL 01', '739-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L738-ANUAL 01', 'L738-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L737-ANUAL 01', 'L737-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L742-ANUAL 01', 'L742-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L741-ANUAL 01', 'L741-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('736-ANUAL 01', '736-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('735-ANUAL 01', '735-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('734-ANUAL 01', '734-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L733-ANUAL 01', 'L733-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L732-ANUAL 01', 'L732-A01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 01', 'L658-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 02', 'L658-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 03', 'L658-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 04', 'L658-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 05', 'L658-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L658-BIMESTRE 06', 'L658-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L657-BIMESTRE 01', 'L657-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L657-BIMESTRE 02', 'L657-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L657-BIMESTRE 03', 'L657-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L657-BIMESTRE 04', 'L657-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L659-BIMESTRE 01', 'L659-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L659-BIMESTRE 02', 'L659-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L659-BIMESTRE 03', 'L659-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('L659-BIMESTRE 04', 'L659-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 01', 'A974-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 02', 'A974-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 03', 'A974-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 04', 'A974-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 05', 'A974-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A974-BIMESTRE 06', 'A974-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 01', 'A976-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 02', 'A976-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 03', 'A976-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 04', 'A976-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 05', 'A976-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A976-BIMESTRE 06', 'A976-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 01', 'A975-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 02', 'A975-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 03', 'A975-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 04', 'A975-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 05', 'A975-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A975-BIMESTRE 06', 'A975-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 01', 'A973-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 02', 'A973-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 03', 'A973-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 04', 'A973-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 05', 'A973-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A973-BIMESTRE 06', 'A973-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 01', 'A972-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 02', 'A972-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 03', 'A972-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 04', 'A972-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 05', 'A972-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A972-BIMESTRE 06', 'A972-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 01', 'A971-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 02', 'A971-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 03', 'A971-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 04', 'A971-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 05', 'A971-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A971-BIMESTRE 06', 'A971-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 01', 'A970-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 02', 'A970-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 03', 'A970-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 04', 'A970-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 05', 'A970-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A970-BIMESTRE 06', 'A970-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A980-CUATRIMESTRE 01', 'A980-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A980-CUATRIMESTRE 02', 'A980-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A980-CUATRIMESTRE 03', 'A980-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A980-CUATRIMESTRE 04', 'A980-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A980-CUATRIMESTRE 05', 'A980-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 01', 'A982-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 02', 'A982-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 03', 'A982-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 04', 'A982-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 05', 'A982-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A982-CUATRIMESTRE 06', 'A982-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 01', 'A981-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 02', 'A981-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 03', 'A981-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 04', 'A981-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 05', 'A981-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A981-CUATRIMESTRE 06', 'A981-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 01', 'A984-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 02', 'A984-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 03', 'A984-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 04', 'A984-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 05', 'A984-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A984-CUATRIMESTRE 06', 'A984-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 01', 'A983-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 02', 'A983-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 03', 'A983-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 04', 'A983-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 05', 'A983-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A983-CUATRIMESTRE 06', 'A983-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 01', 'A985-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 02', 'A985-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 03', 'A985-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 04', 'A985-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 05', 'A985-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A985-CUATRIMESTRE 06', 'A985-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 00', 'A986-C00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 01', 'A986-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 02', 'A986-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 03', 'A986-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 04', 'A986-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A986-CUATRIMESTRE 05', 'A986-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 00', 'A977-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 01', 'A977-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 02', 'A977-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 03', 'A977-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 04', 'A977-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 05', 'A977-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 06', 'A977-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A977-TRIMESTRE 07', 'A977-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 00', 'A978-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 01', 'A978-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 02', 'A978-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 03', 'A978-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 04', 'A978-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 05', 'A978-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 06', 'A978-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A978-TRIMESTRE 07', 'A978-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 00', 'A979-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 01', 'A979-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 02', 'A979-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 03', 'A979-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 04', 'A979-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 05', 'A979-T05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 06', 'A979-T06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A979-TRIMESTRE 07', 'A979-T07', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 01', 'A987-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 02', 'A987-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 03', 'A987-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 04', 'A987-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 05', 'A987-C05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A987-CUATRIMESTRE 06', 'A987-C06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A464-TRIMESTRE 00', 'A464-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A464-TRIMESTRE 01', 'A464-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A464-TRIMESTRE 02', 'A464-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A464-TRIMESTRE 03', 'A464-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A464-TRIMESTRE 04', 'A464-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A463-TRIMESTRE 00', 'A463-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A463-TRIMESTRE 01', 'A463-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A463-TRIMESTRE 02', 'A463-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A463-TRIMESTRE 03', 'A463-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A463-TRIMESTRE 04', 'A463-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A462-TRIMESTRE 00', 'A462-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A462-TRIMESTRE 01', 'A462-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A462-TRIMESTRE 02', 'A462-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A462-TRIMESTRE 03', 'A462-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A462-TRIMESTRE 04', 'A462-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A461-TRIMESTRE 00', 'A461-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A461-TRIMESTRE 01', 'A461-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A461-TRIMESTRE 02', 'A461-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A461-TRIMESTRE 03', 'A461-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A461-TRIMESTRE 04', 'A461-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A460-TRIMESTRE 00', 'A460-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A460-TRIMESTRE 01', 'A460-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A460-TRIMESTRE 02', 'A460-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A460-TRIMESTRE 03', 'A460-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A460-TRIMESTRE 04', 'A460-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A459-TRIMESTRE 00', 'A459-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A459-TRIMESTRE 01', 'A459-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A459-TRIMESTRE 02', 'A459-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A459-TRIMESTRE 03', 'A459-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A459-TRIMESTRE 04', 'A459-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A465-TRIMESTRE 00', 'A465-T00', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A465-TRIMESTRE 01', 'A465-T01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A465-TRIMESTRE 02', 'A465-T02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A465-TRIMESTRE 03', 'A465-T03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A465-TRIMESTRE 04', 'A465-T04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('221-CUATRIMESTRE 01', '221-C01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('221-CUATRIMESTRE 02', '221-C02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('221-CUATRIMESTRE 03', '221-C03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('221-CUATRIMESTRE 04', '221-C04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 01', 'A988-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 02', 'A988-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 03', 'A988-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 04', 'A988-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 05', 'A988-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A988-BIMESTRE 06', 'A988-B06', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 01', 'A989-B01', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 02', 'A989-B02', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 03', 'A989-B03', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 04', 'A989-B04', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 05', 'A989-B05', 3);
+
+        
+            insert into dara_mallas_area
+            (name, code, company_id)
+            values ('A989-BIMESTRE 06', 'A989-B06', 3);
+
+        

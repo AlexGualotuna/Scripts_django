@@ -1,0 +1,31 @@
+
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('TEORICO', 'TEO', 4);
+
+        
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('PRACTICA', 'PRA', 4);
+
+        
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('SIMULACION', 'SIM', 4);
+
+        
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('CAMPO CLINICO', 'CCL', 4);
+
+        
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('TEORICO VIRTUAL', 'TEV', 4);
+
+        
+            insert into dara_mallas_schedule_class
+            (name, code, company_id)
+            values ('SUFICIENCIA', 'SUF', 4);
+
+        

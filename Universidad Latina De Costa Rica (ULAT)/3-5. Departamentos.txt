@@ -1,0 +1,111 @@
+
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('HM', 'CIENCIAS MEDICAS Y DE LA SALUD',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('HC', 'CUIDADO DE LA SALUD Y LA SOCIEDAD',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('HH', 'CUIDADO DE LA SALUD Y LOS ECOSISTEMAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('AV', 'ARTES VISUALES',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('DC', 'DISEÑO Y CONSTRUCCION',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CO', 'COMUNICACION COLECTIVA',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CN', 'CIENCIAS ECONOMICAS Y NEGOCIOS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('HO', 'HOSPITALIDAD',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CE', 'CIENCIAS DE LA EDUCACION',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('ID', 'IDIOMAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('EG', 'ESTUDIOS GENERALES',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('IG', 'INGENIERIAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('TI', 'TICS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('JU', 'CIENCIAS JURIDICAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CX', 'CIENCIAS EXACTAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CL', 'CURSOS LIBRES',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('TE', 'TECNICOS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('CP', 'CERTIFICACION PROFESIONAL Y PROGRAMAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('PE', 'CURSOS EJECUTIVOS, ESPECIALIZACION, PROGRAMA EJECUTIVO Y MASTER EJECUTIVO',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('ES', 'ESPECIALIDADES',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('MA', 'MAESTRIAS',3);
+
+        
+            insert into dara_mallas_subject_department
+            (code, name, company_id)
+            values ('DO', 'DOCTORADO',3);
+
+        

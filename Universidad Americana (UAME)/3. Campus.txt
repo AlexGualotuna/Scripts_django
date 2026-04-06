@@ -1,0 +1,21 @@
+
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CENTRAL SAN PEDRO', 'SP',4);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE HEREDIA', 'HR',4);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CARTAGO', 'CG',4);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('ONLINE', 'ON',4);
+
+        

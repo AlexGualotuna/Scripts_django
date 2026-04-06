@@ -1,0 +1,26 @@
+
+            insert into dara_mallas_journey
+            (name, code, company_id)
+            values ('ANUAL', 'A', 3);
+
+        
+            insert into dara_mallas_journey
+            (name, code, company_id)
+            values ('CUATRIMESTRAL', 'C', 3);
+
+        
+            insert into dara_mallas_journey
+            (name, code, company_id)
+            values ('TRIMESTRAL', 'T', 3);
+
+        
+            insert into dara_mallas_journey
+            (name, code, company_id)
+            values ('BIMESTRAL', 'B', 3);
+
+        
+            insert into dara_mallas_journey
+            (name, code, company_id)
+            values ('MENSUAL', 'M', 3);
+
+        

@@ -1,0 +1,426 @@
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    16135,
+    9059,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'COMUNICACIÓN',
+    'pendiente',
+    'La materia SOCIEDAD DIGITAL, INTERNET Y REDES SOCIALES JORZ3393 le metemos en la regla de homologación de la COMUNICACIÓN DIGITAL CORP1344, se programa la materia SOCIEDAD DIGITAL, INTERNET Y REDES SOCIALES JORZ3393.
+
+BN: No se modificará ningún prerrequisito en ninguna de las dos materias. La carrera de Comunicación tendrá que eliminar la materia JORZ3393 de la proyección de los estudiantes
+
+Gaby Romo: notificó que la disposición desde Vicerrectorado es que las carreras deben limpiar manualmente la proyección en materias donde se liberan los prerrequisitos.
+
+Estado Pendiente: debido a que Gaby Romo solicita que haya más materias en comunalidad.',
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 16:13:23.489223',
+    '2026-03-10 16:24:09.72166'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    16238,
+    16139,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'PERIODISMO',
+    'pendiente',
+    'La materia CORP3498 - ASESORÍA COMUNICACIONAL le metemos en la regla de homologación de la JORZ3397 - AGENCIA DE COMUNICACIÓN, se programa la materia ACORP3498 - ASESORÍA COMUNICACIONAL.
+',
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 16:35:34.760712',
+    '2026-03-10 16:40:16.006229'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    16140,
+    14449,
+    16237,
+    16187,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'PUBLICIDAD',
+    'terminado',
+    'La materia JORZ3398 - AUDIO STORYTELLING: TALLER DE LOCUCIÓN Y PRODUCCIÓN RADIOFÓNICA le metemos en la regla de homologación de la PUBZ2355 - STORYTELLING, se programa la materia JORZ3398 - AUDIO STORYTELLING: TALLER DE LOCUCIÓN Y PRODUCCIÓN RADIOFÓNICA
+
+Se define que no se modifican los prerrequisitos JORZ3398 - AUDIO STORYTELLING: TALLER DE LOCUCIÓN Y PRODUCCIÓN RADIOFÓNICA  y la carrera de publicidad se encargará de depurar las proyecciones quitando la materia de los alumnos que no corresponde.',
+    'La materia CORP3497 - MARCA CORPORATIVA le metemos en la regla de homologación de la PUBZ4344 - ARQUITECTURA DE MARCAS, se programa la materia CORP3497 - MARCA CORPORATIVA. Cuenta con modificación en prerrequisitos.
+
+
+
+',
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 16:52:21.239404',
+    '2026-03-10 21:16:22.195045'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    15055,
+    16218,
+    11792,
+    8705,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'MULTIMEDIA',
+    'pendiente',
+    'La materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL le metemos en la regla de homologación de la PMCZ4465 - DISEÑO DE SONIDO
+, se programa la materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL
+
+Queda pendiente para que pongan otra materia más para comunalidad.',
+    'La materia CINE4460 - GUION I le metemos en la regla de homologación de la PMCZ1426 - GUION TÉCNICO, se programa la materia CINE4460 - GUION I.
+La carrera de multimedia debe limpiar las proyecciones de los estudiantes que no deban tomar la materia CINE4460 - GUION I',
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 17:11:59.617677',
+    '2026-03-10 21:21:54.017614'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    16224,
+    15419,
+    15055,
+    15415,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'CINE',
+    'terminado',
+    'La materia PMCZ4471 - TÉCNICAS DE COLORIZACIÓN le metemos en la regla de homologación de la CINE4467, se programa la materia PMCZ4471 - TÉCNICAS DE COLORIZACIÓN.
+
+La carrera debe depurar la proyección de los estudiantes a quienes no deben tomar la materia PMCZ4471 - TÉCNICAS DE COLORIZACIÓN. Depurando a los niveles de 3 4 5 nivel.',
+    'La materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL le metemos en la regla de homologación de la CINE4462 - DISEÑO DE SONIDO
+, se programa la materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL.',
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 17:23:07.794594',
+    '2026-03-10 21:17:57.171541'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    15414,
+    8649,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'DISEÑO GRÁFICO Y COMUNICACIÓN VISUAL',
+    'pendiente',
+    'La materia CINE4461 - CÁMARA E ILUMINACIÓN le metemos en la regla de homologación de la DAGZ3334 - DIRECCIÓN DE FOTOGRAFÍA, se programa la materia CINE4461 - CÁMARA E ILUMINACIÓN.
+
+',
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    '2026-03-10 18:02:19.444935',
+    '2026-03-10 21:26:40.807181'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    17191,
+    17289,
+    17197,
+    16273,
+    8644,
+    16281,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    7,
+    7,
+    'DISEÑO DE PRODUCTO',
+    'pendiente',
+    'La materia ARQU0006 - REPRESENTACIÓN IV le metemos en la regla de homologación de la DIIN0008 - MODELADO DIGITAL 3D Y PROTOTIPADO II, se programa la materia ARQU0006 - REPRESENTACIÓN IV.',
+    'La materia ARQU0012 - DISEÑO Y FABRICACIÓN DIGITAL I le metemos en la regla de homologación de la DIPZ4924 - FABRICACIÓN DIGITAL 3D, se programa la materia ARQU0012 - DISEÑO Y FABRICACIÓN DIGITAL I.
+
+Para que me salga en la proyección la ARQU0012 debo meterle en O los prerrequisitos de la DIPZ4924 pero en este caso no se pasan los prerreq de la  DIPZ4924 ya que Juan Francisco indica que en septiembre se abre por 1ra vez ARQU0006 y en marzo se abre por primera vez la ARQU0012, y la ARQU0006 es prerrequisito de la AR0012
+
+',
+    'La materia DAGZ1238 - DISEÑO DE INTERFACES UX le metemos en la regla de homologación de la DIPZ4931 - DISEÑO DE INTERACCIÓN, se programa la materia DAGZ1238 - DISEÑO DE INTERFACES UX.
+
+Para que me salga en la proyección la DAGZ1238 debo meterle en O los prerrequisitos de la DIPZ4931, como la materia DAGZ1238 no tiene prerrequisitos Juan Francisco indica que no ingresará el prerrequisito y lo controlará desde la proyección (limpiando la proyección)',
+    NULL,
+    NULL,
+    '2026-03-10 21:39:04.338743',
+    '2026-03-10 21:59:02.249606'
+);
+
+INSERT INTO dara_mallas_comunalidad (
+    asignatura_a_id,
+    asignatura_b_id,
+    asignatura_c_id,
+    asignatura_d_id,
+    asignatura_e_id,
+    asignatura_f_id,
+    asignatura_g_id,
+    asignatura_h_id,
+    asignatura_i_id,
+    asignatura_j_id,
+    company_id,
+    create_uid,
+    write_uid,
+    carrera,
+    estado_comunalidad,
+    copy_message_a,
+    copy_message_c,
+    copy_message_e,
+    copy_message_g,
+    copy_message_i,
+    create_date,
+    write_date
+)
+VALUES (
+    17420,
+    11425,
+    15055,
+    11905,
+    16149,
+    17685,
+    NULL,
+    NULL,
+    NULL,
+    NULL,
+    1,
+    8,
+    8,
+    'ARTES MUSICALES',
+    'terminado',
+    'La materia ISAZ5019 - TÉCNICAS DE GRABACIÓN Y EDICIÓN le metemos en la regla de homologación de la MUSZ4766 - GRABACIÓN DE AUDIO, se programa la materia ISAZ5019 - TÉCNICAS DE GRABACIÓN Y EDICIÓN.
+
+Se genera nuevo prerrequisito.',
+    'La materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL le metemos en la regla de homologación de la MUSZ3518 - PRODUCCIÓN MUSICAL I, se programa la materia ISAZ2332 - SOFTWARE DE AUDIO DIGITAL.
+
+Existe modificación de prerrequisitos.',
+    'La materia JORZ3406 - NARRATIVAS TRANSMEDIA PARA CREADORES DE CONTENIDO le metemos en la regla de homologación de la MUSZ4901 - MUSIC BUSINESS II, se programa la materia JORZ3406 - NARRATIVAS TRANSMEDIA PARA CREADORES DE CONTENIDO.
+
+La carrera de Artes Musicales se compromete a la limpieza de la proyección de los estudiantes que no deben tomar la materia JORZ3406, alumnos de 1 a 5to nivel.',
+    NULL,
+    NULL,
+    '2026-03-11 15:04:05.377835',
+    '2026-03-11 15:39:08.070355'
+);

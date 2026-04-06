@@ -1,0 +1,316 @@
+
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('0000', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('216', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('020', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('014', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('019', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('210', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('001', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('002', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('003', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('021', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('012', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('200', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('201', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('203', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('211', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L200', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('004', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('005', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('006', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('007', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('008', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('010', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('011', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('022', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('205', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('206', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('207', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('208', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('018', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('213', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('015', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('017', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('214', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('215', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('016', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('013', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('212', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L700', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L701', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L702', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L703', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L704', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L705', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L706', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L707', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L708', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L709', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L710', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L711', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L712', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L550', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L551', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('552', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('450', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('451', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('500', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L652', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L653', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L655', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L656', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('209', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L553', 4);
+
+        
+            insert into dara_mallas_saes_code
+            (name, company_id)
+            values ('L554', 4);
+
+        

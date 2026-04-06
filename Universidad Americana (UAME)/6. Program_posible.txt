@@ -1,0 +1,2941 @@
+
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'DOCENCIA',
+            NULL,
+            'DOCENCIA',
+            'LICENCIATURA EN DOCENCIA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'DOCENCIA'
+            AND p.description = 'LICENCIATURA EN DOCENCIA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1L200',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L200' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='DOCENCIA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN DOCENCIA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTROL DE CALIDAD Y LOGISTICA',
+            NULL,
+            'CONTROL DE CALIDAD Y LOGISTICA',
+            'TECNICO EN CONTROL DE CALIDAD Y LOGISTICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTROL DE CALIDAD Y LOGISTICA'
+            AND p.description = 'TECNICO EN CONTROL DE CALIDAD Y LOGISTICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L652',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L652' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTROL DE CALIDAD Y LOGISTICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN CONTROL DE CALIDAD Y LOGISTICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'DISENO GRAFICO',
+            NULL,
+            'DISENO GRAFICO',
+            'TECNICO EN DISENO GRAFICO',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'DISENO GRAFICO'
+            AND p.description = 'TECNICO EN DISENO GRAFICO'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L653',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L653' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='DISENO GRAFICO'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN DISENO GRAFICO'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'MARKETING DIGITAL',
+            NULL,
+            'MARKETING DIGITAL',
+            'TECNICO EN MARKETING DIGITAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'MARKETING DIGITAL'
+            AND p.description = 'TECNICO EN MARKETING DIGITAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L655',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L655' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='MARKETING DIGITAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN MARKETING DIGITAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'SUPERVISION DE LA PRODUCCION',
+            NULL,
+            'SUPERVISION DE LA PRODUCCION',
+            'TECNICO EN SUPERVISION DE LA PRODUCCION',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'SUPERVISION DE LA PRODUCCION'
+            AND p.description = 'TECNICO EN SUPERVISION DE LA PRODUCCION'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L656',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L656' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='SUPERVISION DE LA PRODUCCION'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN SUPERVISION DE LA PRODUCCION'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'MICROSOFT EXCEL ACADEMIC',
+            NULL,
+            'MICROSOFT EXCEL ACADEMIC',
+            'CURSO LIBRE EN MICROSOFT EXCEL ACADEMIC',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'MICROSOFT EXCEL ACADEMIC'
+            AND p.description = 'CURSO LIBRE EN MICROSOFT EXCEL ACADEMIC'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L700',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L700' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='MICROSOFT EXCEL ACADEMIC'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN MICROSOFT EXCEL ACADEMIC'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'MICROSOFT EXCEL BUSINESS',
+            NULL,
+            'MICROSOFT EXCEL BUSINESS',
+            'CURSO LIBRE EN MICROSOFT EXCEL BUSINESS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'MICROSOFT EXCEL BUSINESS'
+            AND p.description = 'CURSO LIBRE EN MICROSOFT EXCEL BUSINESS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L701',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L701' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='MICROSOFT EXCEL BUSINESS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN MICROSOFT EXCEL BUSINESS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTRATACION ADMINISTRATIVA',
+            NULL,
+            'CONTRATACION ADMINISTRATIVA',
+            'CURSO LIBRE EN CONTRATACION ADMINISTRATIVA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTRATACION ADMINISTRATIVA'
+            AND p.description = 'CURSO LIBRE EN CONTRATACION ADMINISTRATIVA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L702',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L702' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTRATACION ADMINISTRATIVA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CONTRATACION ADMINISTRATIVA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'SAP I',
+            NULL,
+            'SAP I',
+            'CURSO LIBRE EN SAP I',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'SAP I'
+            AND p.description = 'CURSO LIBRE EN SAP I'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L703',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L703' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='SAP I'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN SAP I'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'SAP II',
+            NULL,
+            'SAP II',
+            'CURSO LIBRE EN SAP II',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'SAP II'
+            AND p.description = 'CURSO LIBRE EN SAP II'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L704',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L704' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='SAP II'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN SAP II'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CERTIFICACION YELLOW BELT',
+            NULL,
+            'CERTIFICACION YELLOW BELT',
+            'CURSO LIBRE EN CERTIFICACION YELLOW BELT',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CERTIFICACION YELLOW BELT'
+            AND p.description = 'CURSO LIBRE EN CERTIFICACION YELLOW BELT'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L705',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L705' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CERTIFICACION YELLOW BELT'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CERTIFICACION YELLOW BELT'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'LESCO I',
+            NULL,
+            'LESCO I',
+            'CURSO LIBRE EN LESCO I',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'LESCO I'
+            AND p.description = 'CURSO LIBRE EN LESCO I'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L706',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L706' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='LESCO I'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN LESCO I'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'LESCO II',
+            NULL,
+            'LESCO II',
+            'CURSO LIBRE EN LESCO II',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'LESCO II'
+            AND p.description = 'CURSO LIBRE EN LESCO II'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L707',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L707' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='LESCO II'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN LESCO II'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'LESCO III',
+            NULL,
+            'LESCO III',
+            'CURSO LIBRE EN LESCO III',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'LESCO III'
+            AND p.description = 'CURSO LIBRE EN LESCO III'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L708',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L708' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='LESCO III'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN LESCO III'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CCNA 01',
+            NULL,
+            'CCNA 01',
+            'CURSO LIBRE EN CCNA 01',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CCNA 01'
+            AND p.description = 'CURSO LIBRE EN CCNA 01'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L709',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L709' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CCNA 01'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CCNA 01'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CCNA 02',
+            NULL,
+            'CCNA 02',
+            'CURSO LIBRE EN CCNA 02',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CCNA 02'
+            AND p.description = 'CURSO LIBRE EN CCNA 02'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L710',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L710' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CCNA 02'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CCNA 02'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CCNA 03',
+            NULL,
+            'CCNA 03',
+            'CURSO LIBRE EN CCNA 03',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CCNA 03'
+            AND p.description = 'CURSO LIBRE EN CCNA 03'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L711',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L711' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CCNA 03'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CCNA 03'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CERTIFICACION SCRUM MASTER',
+            NULL,
+            'CERTIFICACION SCRUM MASTER',
+            'CURSO LIBRE EN CERTIFICACION SCRUM MASTER',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CERTIFICACION SCRUM MASTER'
+            AND p.description = 'CURSO LIBRE EN CERTIFICACION SCRUM MASTER'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME4L712',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L712' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CERTIFICACION SCRUM MASTER'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='CURSO LIBRE EN CERTIFICACION SCRUM MASTER'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS',
+            'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS'
+            AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P001',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='001' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS',
+            'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202103' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS'
+            AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202103' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P001',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='001' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202103' AND company_id = 4)
+            AND description='BACHILLERATO EN ADMINISTRACION DE NEGOCIOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS',
+            'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+            AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P002',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='002' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN MERCADEO Y VENTAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS',
+            'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+            AND p.description = 'BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P003',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='003' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN RECURSOS HUMANOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P004',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='004' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN I Y II CICLOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P005',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='005' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA CONTABILIDAD'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P006',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='006' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA INFORMATICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P007',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='007' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P008',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='008' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LAS CIENCIAS NATURALES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P010',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='010' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P011',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='011' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTADURIA',
+            NULL,
+            'CONTADURIA',
+            'BACHILLERATO EN CONTADURIA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTADURIA'
+            AND p.description = 'BACHILLERATO EN CONTADURIA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P012',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='012' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTADURIA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CONTADURIA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTADURIA',
+            NULL,
+            'CONTADURIA',
+            'BACHILLERATO EN CONTADURIA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202303' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTADURIA'
+            AND p.description = 'BACHILLERATO EN CONTADURIA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202303' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P012',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='012' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTADURIA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202303' AND company_id = 4)
+            AND description='BACHILLERATO EN CONTADURIA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'DERECHO',
+            NULL,
+            'DERECHO',
+            'BACHILLERATO EN DERECHO',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'DERECHO'
+            AND p.description = 'BACHILLERATO EN DERECHO'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P013',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='013' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='DERECHO'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN DERECHO'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'DISENO PUBLICITARIO',
+            NULL,
+            'DISENO PUBLICITARIO',
+            'BACHILLERATO EN DISENO PUBLICITARIO',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'DISENO PUBLICITARIO'
+            AND p.description = 'BACHILLERATO EN DISENO PUBLICITARIO'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P014',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='014' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='DISENO PUBLICITARIO'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN DISENO PUBLICITARIO'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'GESTION DE PROCESOS',
+            NULL,
+            'GESTION DE PROCESOS',
+            'BACHILLERATO EN GESTION DE PROCESOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'GESTION DE PROCESOS'
+            AND p.description = 'BACHILLERATO EN GESTION DE PROCESOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P015',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='015' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='GESTION DE PROCESOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN GESTION DE PROCESOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA EN SISTEMAS',
+            NULL,
+            'INGENIERIA EN SISTEMAS',
+            'BACHILLERATO EN INGENIERIA EN SISTEMAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA EN SISTEMAS'
+            AND p.description = 'BACHILLERATO EN INGENIERIA EN SISTEMAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P016',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='016' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA EN SISTEMAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN INGENIERIA EN SISTEMAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA EN SISTEMAS',
+            NULL,
+            'INGENIERIA EN SISTEMAS',
+            'BACHILLERATO EN INGENIERIA EN SISTEMAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202201' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA EN SISTEMAS'
+            AND p.description = 'BACHILLERATO EN INGENIERIA EN SISTEMAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202201' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P016',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='016' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA EN SISTEMAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202201' AND company_id = 4)
+            AND description='BACHILLERATO EN INGENIERIA EN SISTEMAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA INDUSTRIAL',
+            NULL,
+            'INGENIERIA INDUSTRIAL',
+            'BACHILLERATO EN INGENIERIA INDUSTRIAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '201901' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA INDUSTRIAL'
+            AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '201901' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P017',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='017' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA INDUSTRIAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '201901' AND company_id = 4)
+            AND description='BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA INDUSTRIAL',
+            NULL,
+            'INGENIERIA INDUSTRIAL',
+            'BACHILLERATO EN INGENIERIA INDUSTRIAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA INDUSTRIAL'
+            AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P017',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='017' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA INDUSTRIAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA INDUSTRIAL',
+            NULL,
+            'INGENIERIA INDUSTRIAL',
+            'BACHILLERATO EN INGENIERIA INDUSTRIAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202201' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA INDUSTRIAL'
+            AND p.description = 'BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202201' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P017',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='017' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA INDUSTRIAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202201' AND company_id = 4)
+            AND description='BACHILLERATO EN INGENIERIA INDUSTRIAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ENSENANZA DEL INGLES',
+            NULL,
+            'ENSENANZA DEL INGLES',
+            'BACHILLERATO EN ENSENANZA DEL INGLES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202301' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ENSENANZA DEL INGLES'
+            AND p.description = 'BACHILLERATO EN ENSENANZA DEL INGLES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202301' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P018',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='018' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ENSENANZA DEL INGLES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202301' AND company_id = 4)
+            AND description='BACHILLERATO EN ENSENANZA DEL INGLES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ENSENANZA DEL INGLES',
+            NULL,
+            'ENSENANZA DEL INGLES',
+            'BACHILLERATO EN ENSENANZA DEL INGLES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ENSENANZA DEL INGLES'
+            AND p.description = 'BACHILLERATO EN ENSENANZA DEL INGLES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P018',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='018' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ENSENANZA DEL INGLES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN ENSENANZA DEL INGLES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'PUBLICIDAD',
+            NULL,
+            'PUBLICIDAD',
+            'BACHILLERATO EN PUBLICIDAD',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'PUBLICIDAD'
+            AND p.description = 'BACHILLERATO EN PUBLICIDAD'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P019',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='019' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='PUBLICIDAD'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN PUBLICIDAD'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'TERAPIA FISICA',
+            NULL,
+            'TERAPIA FISICA',
+            'BACHILLERATO EN TERAPIA FISICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'TERAPIA FISICA'
+            AND p.description = 'BACHILLERATO EN TERAPIA FISICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P020',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='020' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='TERAPIA FISICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN TERAPIA FISICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ESTADISTICA APLICADA A LAS EMPRESAS',
+            NULL,
+            'ESTADISTICA APLICADA A LAS EMPRESAS',
+            'BACHILLERATO EN ESTADISTICA APLICADA A LAS EMPRESAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ESTADISTICA APLICADA A LAS EMPRESAS'
+            AND p.description = 'BACHILLERATO EN ESTADISTICA APLICADA A LAS EMPRESAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P021',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='021' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ESTADISTICA APLICADA A LAS EMPRESAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN ESTADISTICA APLICADA A LAS EMPRESAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION PREESCOLAR',
+            NULL,
+            'CIENCIAS DE LA EDUCACION PREESCOLAR',
+            'BACHILLERATO EN CIENCIAS DE LA EDUCACION PREESCOLAR',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION PREESCOLAR'
+            AND p.description = 'BACHILLERATO EN CIENCIAS DE LA EDUCACION PREESCOLAR'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P022',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='022' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION PREESCOLAR'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='BACHILLERATO EN CIENCIAS DE LA EDUCACION PREESCOLAR'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS',
+            'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202303' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS'
+            AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202303' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P200',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='200' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202303' AND company_id = 4)
+            AND description='LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS',
+            'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS'
+            AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P200',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='200' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN ADMINISTRACION DE NEGOCIOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS',
+            'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+            AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P201',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='201' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ÉNFASIS EN MERCADEO Y VENTAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS',
+            NULL,
+            'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS',
+            'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+            AND p.description = 'LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P203',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='203' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN RECURSOS HUMANOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P205',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='205' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LA MATEMATICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P206',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='206' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DE LOS ESTUDIOS SOCIALES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            NULL,
+            'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P207',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='207' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN CIENCIAS DE LA EDUCACION CON ENFASIS EN LA ENSENANZA DEL ESPANOL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA',
+            NULL,
+            'CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA',
+            'LICENCIATURA EN CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+            AND p.description = 'LICENCIATURA EN CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P208',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='208' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN CIENCIAS DE LA EDUCACION EN LA ENSENANZA DE LA CIENCIA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'COMUNICACION DE MERCADEO',
+            NULL,
+            'COMUNICACION DE MERCADEO',
+            'LICENCIATURA EN COMUNICACION DE MERCADEO',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'COMUNICACION DE MERCADEO'
+            AND p.description = 'LICENCIATURA EN COMUNICACION DE MERCADEO'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P210',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='210' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='COMUNICACION DE MERCADEO'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN COMUNICACION DE MERCADEO'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTADURIA PUBLICA',
+            NULL,
+            'CONTADURIA PUBLICA',
+            'LICENCIATURA EN CONTADURIA PUBLICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTADURIA PUBLICA'
+            AND p.description = 'LICENCIATURA EN CONTADURIA PUBLICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P211',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='211' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTADURIA PUBLICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN CONTADURIA PUBLICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'DERECHO',
+            NULL,
+            'DERECHO',
+            'LICENCIATURA EN DERECHO',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'DERECHO'
+            AND p.description = 'LICENCIATURA EN DERECHO'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P212',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='212' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='DERECHO'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN DERECHO'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ENSENANZA DEL INGLES',
+            NULL,
+            'ENSENANZA DEL INGLES',
+            'LICENCIATURA EN ENSENANZA DEL INGLES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '202301' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ENSENANZA DEL INGLES'
+            AND p.description = 'LICENCIATURA EN ENSENANZA DEL INGLES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '202301' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P213',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='213' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ENSENANZA DEL INGLES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '202301' AND company_id = 4)
+            AND description='LICENCIATURA EN ENSENANZA DEL INGLES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ENSENANZA DEL INGLES',
+            NULL,
+            'ENSENANZA DEL INGLES',
+            'LICENCIATURA EN ENSENANZA DEL INGLES',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ENSENANZA DEL INGLES'
+            AND p.description = 'LICENCIATURA EN ENSENANZA DEL INGLES'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P213',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='213' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ENSENANZA DEL INGLES'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN ENSENANZA DEL INGLES'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'GESTION DE PROCESOS',
+            NULL,
+            'GESTION DE PROCESOS',
+            'LICENCIATURA EN GESTION DE PROCESOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'GESTION DE PROCESOS'
+            AND p.description = 'LICENCIATURA EN GESTION DE PROCESOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P214',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='214' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='GESTION DE PROCESOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN GESTION DE PROCESOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'INGENIERIA INDUSTRIAL',
+            NULL,
+            'INGENIERIA INDUSTRIAL',
+            'LICENCIATURA EN INGENIERIA INDUSTRIAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'INGENIERIA INDUSTRIAL'
+            AND p.description = 'LICENCIATURA EN INGENIERIA INDUSTRIAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P215',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='215' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='INGENIERIA INDUSTRIAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN INGENIERIA INDUSTRIAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'TERAPIA FISICA',
+            NULL,
+            'TERAPIA FISICA',
+            'LICENCIATURA EN TERAPIA FISICA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'TERAPIA FISICA'
+            AND p.description = 'LICENCIATURA EN TERAPIA FISICA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P216',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='216' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='TERAPIA FISICA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN TERAPIA FISICA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION EDUCATIVA',
+            NULL,
+            'ADMINISTRACION EDUCATIVA',
+            'MAESTRÍA EN ADMINISTRACION EDUCATIVA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION EDUCATIVA'
+            AND p.description = 'MAESTRÍA EN ADMINISTRACION EDUCATIVA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME2P450',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='450' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION EDUCATIVA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='MAESTRÍA EN ADMINISTRACION EDUCATIVA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA',
+            NULL,
+            'CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA',
+            'MAESTRÍA EN CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+            AND p.description = 'MAESTRÍA EN CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME2P451',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='451' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='MAESTRÍA EN CIENCIAS DE LA EDUCACIÓN CON ENFASIS EN DOCENCIA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'FINANZAS Y BANCA',
+            NULL,
+            'FINANZAS Y BANCA',
+            'MAESTRIA PROFESIONAL EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN FINANZAS Y BANCA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'FINANZAS Y BANCA'
+            AND p.description = 'MAESTRIA PROFESIONAL EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN FINANZAS Y BANCA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME2P500',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='500' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='FINANZAS Y BANCA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='MAESTRIA PROFESIONAL EN ADMINISTRACION DE NEGOCIOS CON ENFASIS EN FINANZAS Y BANCA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'ADMINISTRACION DE EMPRESAS',
+            NULL,
+            'ADMINISTRACION DE EMPRESAS',
+            'TECNICO EN ADMINISTRACION DE EMPRESAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'ADMINISTRACION DE EMPRESAS'
+            AND p.description = 'TECNICO EN ADMINISTRACION DE EMPRESAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L550',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L550' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='ADMINISTRACION DE EMPRESAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN ADMINISTRACION DE EMPRESAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CONTABILIDAD Y FINANZAS',
+            NULL,
+            'CONTABILIDAD Y FINANZAS',
+            'TECNICO EN CONTABILIDAD Y FINANZAS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CONTABILIDAD Y FINANZAS'
+            AND p.description = 'TECNICO EN CONTABILIDAD Y FINANZAS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L551',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L551' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CONTABILIDAD Y FINANZAS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN CONTABILIDAD Y FINANZAS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'RECURSOS HUMANOS',
+            NULL,
+            'RECURSOS HUMANOS',
+            'TECNICO EN RECURSOS HUMANOS',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'RECURSOS HUMANOS'
+            AND p.description = 'TECNICO EN RECURSOS HUMANOS'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L552',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L552' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='RECURSOS HUMANOS'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN RECURSOS HUMANOS'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL',
+            NULL,
+            'COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL',
+            'LICENCIATURA EN COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+            AND p.description = 'LICENCIATURA EN COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME1P209',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='P' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='209' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='LICENCIATURA EN COMUNICACION ESTRATEGICA Y MERCADEO DIGITAL'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'CADENA DE SUMINISTRO Y MEJORA CONTINUA',
+            NULL,
+            'CADENA DE SUMINISTRO Y MEJORA CONTINUA',
+            'TECNICO EN CADENA DE SUMINISTRO Y MEJORA CONTINUA',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+            AND p.description = 'TECNICO EN CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L553',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L553' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN CADENA DE SUMINISTRO Y MEJORA CONTINUA'
+            AND company_id=4),
+            4
+        );
+
+        
+        INSERT INTO dara_mallas_program
+        (name, name_en, long_name, description, program_min_pga, college_id,
+        duration_type, period_id, program_min_cali, company_id)
+        SELECT
+            'SUPERVISION DE LA PRODUCCION',
+            NULL,
+            'SUPERVISION DE LA PRODUCCION',
+            'TECNICO EN SUPERVISION DE LA PRODUCCION',
+            0,
+            NULL,
+            'PERÍODOS ACADÉMICOS',
+            (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4),
+            NULL,
+            4
+        WHERE NOT EXISTS (
+            SELECT 1
+            FROM dara_mallas_program p
+            WHERE p.name = 'SUPERVISION DE LA PRODUCCION'
+            AND p.description = 'TECNICO EN SUPERVISION DE LA PRODUCCION'
+            AND p.period_id = (
+                    SELECT id FROM dara_mallas_period
+                    WHERE name = '000000' AND company_id = 4)
+            AND p.company_id = 4);
+
+
+        INSERT INTO dara_mallas_program_code
+        (name, type, journey_id, mode_id, saes_code_id, program_id, company_id)
+        VALUES (
+            'UAME3L554',
+            'UAME',
+            (SELECT id FROM dara_mallas_journey WHERE name='CUATRIMESTRAL' AND company_id=4),
+            (SELECT id FROM dara_mallas_mode WHERE code='L' AND company_id=4),
+            (SELECT id FROM dara_mallas_saes_code WHERE name='L554' AND company_id=4),
+            (SELECT id FROM dara_mallas_program
+            WHERE name='SUPERVISION DE LA PRODUCCION'
+            AND period_id = (SELECT id FROM dara_mallas_period WHERE name = '000000' AND company_id = 4)
+            AND description='TECNICO EN SUPERVISION DE LA PRODUCCION'
+            AND company_id=4),
+            4
+        );
+
+        

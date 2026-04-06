@@ -1,0 +1,1674 @@
+ 
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1L200' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L602' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L650' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L653' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L654' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L655' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L700' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L701' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L702' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L703' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L704' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L705' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L706' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L708' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L709' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L710' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L711' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L712' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L713' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L714' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L715' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L716' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L717' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L718' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L719' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L720' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L721' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L722' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L723' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L724' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L725' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L727' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L728' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L729' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L730' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L731' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L850' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L851' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L852' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L853' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L854' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L855' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L856' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L857' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L858' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L859' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L860' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L861' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L862' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L863' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L864' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L865' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L866' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L867' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L868' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L869' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L870' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L900' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A950' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A951' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A952' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A953' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A954' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A955' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L956' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L957' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A958' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A960' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A961' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L963' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A964' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L965' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A966' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A967' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L968' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A969' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P001' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P002' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P003' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P005' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P006' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P007' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P008' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P009' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P010' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P011' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P012' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P013' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P015' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P016' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P017' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P018' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P019' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P020' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P021' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CJ' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P022' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P023' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P024' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P025' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P026' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P027' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P028' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P029' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P030' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P031' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P032' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P033' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P200' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P201' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P202' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P203' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P204' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P205' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P206' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P207' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P208' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P209' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P210' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P211' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P212' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P213' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='HS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P214' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P217' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P218' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P219' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P220' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P221' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P222' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P223' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P224' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P225' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='AH' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P226' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P229' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P230' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CS' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P231' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='CJ' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P232' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P233' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P234' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P236' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P237' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P238' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P239' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P240' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P241' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P242' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P243' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P244' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P245' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P246' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='IN' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P247' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P400' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P401' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P402' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P403' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P404' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P450' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P451' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P452' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P453' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P454' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P455' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P456' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P457' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P458' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P500' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P501' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P502' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P503' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P504' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P505' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P506' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P507' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P508' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P509' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P510' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P600' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P601' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P603' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P604' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P605' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P606' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P651' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P652' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P800' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P801' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P802' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A959' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2P962' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L450' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L451' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L452' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2L453' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P805' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P804' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3P803' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L740' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4P739' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L738' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L737' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L742' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L741' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4P736' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4P735' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4P734' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L733' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT4L732' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L658' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L657' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='EC' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT3L659' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A974' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A976' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A975' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A973' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A972' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A971' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A970' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A980' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A982' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A981' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A984' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A983' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A985' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A986' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A977' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A978' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A979' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A987' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A464' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A463' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A462' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A461' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A460' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A459' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A465' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='00' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P999' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='00' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P998' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='00' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT1P997' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A988' and company_id=3)
+                AND company_id=3;
+
+         
+            UPDATE dara_mallas_program
+            SET college_id=(select id from dara_mallas_college where code='PO' and company_id=3)
+            WHERE 
+                id IN (select program_id from dara_mallas_program_code where name='ULAT2A989' and company_id=3)
+                AND company_id=3;
+
+        

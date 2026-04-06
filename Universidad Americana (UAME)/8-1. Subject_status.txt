@@ -1,0 +1,11 @@
+
+            insert into dara_mallas_subject_status
+            (name, description, company_id)
+            values ('INACTIVO', 'I', 4);
+
+        
+            insert into dara_mallas_subject_status
+            (name, description, company_id)
+            values ('ACTIVO', 'A', 4);
+
+        

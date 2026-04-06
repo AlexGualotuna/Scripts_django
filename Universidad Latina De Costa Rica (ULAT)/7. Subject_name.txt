@@ -1,0 +1,126 @@
+
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CERTIFICACION PROFESIONAL', 'ECCP', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CURSOS LIBRES', 'ECCL', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('PROGRAMA EJECUTIVOS', 'ECPE', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('TECNICOS', 'ECTE', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('ARTES VISUALES', 'CCAV', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('ESTUDIOS GENERALES', 'CSEG', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('COMUNICACIÓN COLECTIVA', 'CCCO', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('IDIOMAS', 'CSID', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS ECONOMICAS Y NEGOCIOS', 'AHCN', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('DISEÑO Y CONTRUCCION', 'CCDC', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS EXACTAS', 'CNCX', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS JURIDICAS', 'CJJU', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('INGENIERIAS', 'INIG', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CUID.SALUD Y ECOSISTEMAS', 'HSHH', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS NATURALES', 'CNCA', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS MEDICAS SALUD', 'HSHM', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CUID.SALUD Y SOCIEDAD', 'HSHC', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('HOSPITALIDAD', 'AHHO', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('TICS', 'INTI', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CONVENIO ASU', 'TAM', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS EDUCACION', 'CSCE', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('ESPECIALIDADES', 'POES', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('MAESTRIAS', 'POMA', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('MASTER EJECUTIVO', 'POPE', 3);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('PONDERACION SHAGCOM', 'POND', 3);
+
+        

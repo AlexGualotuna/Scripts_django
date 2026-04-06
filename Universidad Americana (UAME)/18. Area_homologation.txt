@@ -1,0 +1,3049 @@
+
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '020-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '216-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '216-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '216-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '216-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '014-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '019-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '210-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '210-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '210-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202103' and company_id=4),
+                (select id from dara_mallas_area where code = '001-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '002-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '003-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '021-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '012-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202303' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '200-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '201-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '201-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '201-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '203-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '203-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '203-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '211-C00' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L200-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L200-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L200-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '004-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '005-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '006-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '007-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '008-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '010-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '011-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '022-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '205-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '205-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '205-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '206-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '206-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '206-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '207-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '207-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '207-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '207-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '208-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '208-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '208-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '018-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202301' and company_id=4),
+                (select id from dara_mallas_area where code = '213-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '015-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '201901' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '017-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '214-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '214-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '215-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '215-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '215-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '202201' and company_id=4),
+                (select id from dara_mallas_area where code = '016-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C05' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C06' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C07' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '013-C08' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '212-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '212-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '212-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '212-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L709-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L710-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L711-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L712-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L705-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L702-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L706-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L707-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L708-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L700-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L701-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L703-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L704-A01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L652-B1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L652-B2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L652-B3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L652-B4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L652-B5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L653-B8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L655-B8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L656-B6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M9' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '550-M10' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M9' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L551-M10' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M9' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L552-M10' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '450-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '450-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '450-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '450-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '451-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '451-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '451-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '451-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '500-C00' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '500-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '500-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '500-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '500-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'MDHP-C10' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'MDHP-C11' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'TCU-C12' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'TCU-C11' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'MDHP-C13' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'MDHP-C12' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '209-C01' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '209-C02' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '209-C03' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = '209-C04' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M9' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L553-M10' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M1' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M2' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M3' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M4' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M5' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M6' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M7' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M8' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M9' and company_id=4),
+                NULL, NULL, 4);
+
+        
+            insert into dara_mallas_area_homologation
+            (period_id, area_id, dinamic, file_name, company_id)
+            values (
+                (select id from dara_mallas_period where name = '000000' and company_id=4),
+                (select id from dara_mallas_area where code = 'L554-M10' and company_id=4),
+                NULL, NULL, 4);
+
+        

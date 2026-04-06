@@ -1,0 +1,106 @@
+
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CENTRAL SAN PEDRO', 'SP',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE HEREDIA', 'HR',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE PEREZ ZELEDON', 'PZ',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE GRECIA', 'GR',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE SANTA CRUZ', 'SC',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CAÑAS', 'CN',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE GUAPILES', 'GP',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CIUDAD NEILY', 'CY',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('ONLINE', 'ON',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('CONVENIO UAM', 'CU',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE CIUDAD NEILLY (ANTIGUA)', 'nan',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE PALMARES', 'PM',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE UPALA', 'UP',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE TURRIALBA', 'TR',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE PUNTARENAS', 'PA',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('SEDE LIMON', 'LN',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('THINK CAMPUS', 'TC',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('CIET', 'CT',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('CONVENIO CENFOTEC', 'CC',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('CENTRO DE ATENCION ESTUDIANTIL', 'AT',3);
+
+        
+            insert into dara_mallas_campus
+            (name, code, company_id)
+            values ('CENTRO DE PROY.UNIVERSITARIA', 'PU',3);
+
+        

@@ -1,0 +1,56 @@
+            
+        insert into dara_mallas_mode
+        (name, code, company_id)
+        values 
+            ('Presencial', 'P', 3),
+            ('Online', 'L', 3),
+            ('APLATAM', 'A', 3);
+
+        
+        insert into dara_mallas_subject_class_name
+        (name, company_id)
+        values ('Carrera', 3);
+
+        
+        insert into dara_mallas_group_rule
+        (name, company_id)
+        values 
+            ('A-100', 3),
+            ('B-100', 3),
+            ('C-100', 3),
+            ('D-100', 3),
+            ('E-100', 3);
+
+        
+        insert into dara_mallas_uec_credit
+        (name, credit_hr_ind, credit_hr_low, credit_hr_high, company_id)
+        values
+            (0, NULL, 0.000, 0.000, 3),
+            (1, NULL, 1.000, 0.000, 3),
+            (2, NULL, 2.000, 0.000, 3),
+            (3, NULL, 3.000, 0.000, 3),
+            (4, NULL, 4.000, 0.000, 3),
+            (5, NULL, 5.000, 0.000, 3),
+            (6, NULL, 6.000, 0.000, 3),
+            (7, NULL, 7.000, 0.000, 3),
+            (8, NULL, 8.000, 0.000, 3),
+            (10, NULL, 10.000, 0.000, 3),
+            (15, NULL, 15.000, 0.000, 3);
+
+            
+        insert into dara_mallas_billed
+        (name, bill_hr_ind, bill_hr_low, bill_hr_high, company_id)
+        values
+            (0, NULL, 0.000, 0.000, 3),
+            (1, NULL, 1.000, 0.000, 3),
+            (2, NULL, 2.000, 0.000, 3),
+            (3, NULL, 3.000, 0.000, 3),
+            (4, NULL, 4.000, 0.000, 3),
+            (5, NULL, 5.000, 0.000, 3),
+            (6, NULL, 6.000, 0.000, 3),
+            (7, NULL, 7.000, 0.000, 3),
+            (8, NULL, 8.000, 0.000, 3),
+            (10, NULL, 10.000, 0.000, 3),
+            (15, NULL, 15.000, 0.000, 3);
+
+    

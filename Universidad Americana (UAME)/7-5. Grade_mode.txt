@@ -1,0 +1,31 @@
+
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('S', 'Modo Estándard', NULL, 4);
+
+        
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('A', 'Aprobado / Reprobado', NULL, 4);
+
+        
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('H', 'Homologación expirada', NULL, 4);
+
+        
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('O', 'Oyente', NULL, 4);
+
+        
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('T', 'Transfer', NULL, 4);
+
+        
+            insert into dara_mallas_grade_mode
+            (name, description, grade_mode_line_subject_id, company_id)
+            values ('Z', 'Migración', NULL, 4);
+
+        

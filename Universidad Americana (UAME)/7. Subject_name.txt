@@ -1,0 +1,76 @@
+
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS MEDICAS SALUD', 'HSHM', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('COMUNICACIÓN COLECTIVA', 'CCCO', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS EDUCACION', 'CSCE', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS ECONOMICAS Y NEGOCIOS', 'AHCN', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('ESTUDIOS GENERALES', 'CSEG', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('ARTES VISUALES', 'CCAV', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('IDIOMAS', 'CSID', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('TICS', 'INTI', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS EXACTAS', 'CNCX', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('INGENIERIAS', 'INIG', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CIENCIAS JURIDICAS', 'CJJU', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('CURSOS LIBRES', 'ECCL', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('TECNICOS', 'ECTE', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('MAESTRIAS', 'POMA', 4);
+
+        
+            insert into dara_mallas_subject_name
+            (name, code, company_id)
+            values ('PONDERACION SHAGCOM', 'POND', 4);
+
+        

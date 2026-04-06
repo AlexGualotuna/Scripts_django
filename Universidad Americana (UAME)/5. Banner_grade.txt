@@ -1,0 +1,86 @@
+
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('000000', 'NO DECLARADO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('LI', 'LICENCIATURA', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('BA', 'BACHILLERATO UNIVERSITARIO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('EM', 'ESPECIALIDAD MEDICA', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('EP', 'ESPECIALIDAD PROFESIONAL', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('MA', 'MAESTRIA ACADEMICA', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('MP', 'MAESTRIA PROFESIONAL', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('DO', 'DOCTORADO ACADEMICO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('CL', 'CURSOS LIBRES', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('CR', 'CERTIFICADO LABORAL', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('CP', 'CERTIFICADO PROFESIONAL', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('TE', 'TECNICO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('CE', 'CURSO EJECUTIVO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('PF', 'PROFESORADO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('DP', 'DIPLOMADO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('MS', 'MASTER EJECUTIVO', 4);
+
+        
+            insert into dara_mallas_banner_grade
+            (code, name, company_id)
+            values ('PE', 'PROGRAMA EJECUTIVO', 4);
+
+        

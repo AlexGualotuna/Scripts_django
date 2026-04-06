@@ -1,0 +1,122 @@
+DELETE FROM dara_mallas_specialization_major
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_study_plan_line
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_study_plan
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_homologation
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_rule
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_inherit_homologation
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_inherit_area
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_inherit
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_area_homologation
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_area
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_corequisite
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_corequisite_line
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_schedule_class_line
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_schedule_class_line_subject
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade_mode_line
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade_mode_line_subject
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade_line
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade_line_subject
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_scacrse
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_status
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_schedule_class
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade_mode
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_name
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_specialization
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_program_code
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_program
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_banner_grade
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_saes_code
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_department
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_campus
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_grade
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_college
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_period
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_journey
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_billed
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_uec_credit
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_group_rule
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_class_name
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_subject_class
+	WHERE company_id = 4;
+
+DELETE FROM dara_mallas_mode
+	WHERE company_id = 4;

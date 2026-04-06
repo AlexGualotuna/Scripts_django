@@ -1,0 +1,32 @@
+dara_mallas_subject_scadtl
+dara_mallas_weighing
+dara_mallas_prerequisite_line
+dara_mallas_schedule_class_line_subject
+dara_mallas_subject_attributes_subject
+dara_mallas_elective_line
+
+Para el subject inherit (Cual inherit buscar para insertar en el inherit area? la linea 20 genera 2 resultados, necesitariamos un dato adicional que venga de la hoja para buscarlo y que no sea repetitivo) de momento se lo deja como limit 1 pero no es la solucion
+
+insert into dara_mallas_subject_inherit
+            (subject_id, company_id)
+            values (
+                (select id from dara_mallas_subject where code = 'CCCO0001' and company_id = 3),
+                3);
+
+            
+            insert into dara_mallas_subject_inherit_area
+            (subject_inherit_id, line_order, study_field_id, organization_unit_id, area_homologation_id, company_id)
+            values (
+                (select id from dara_mallas_subject_inherit where subject_id = (select id from dara_mallas_subject where code = 'CCCO0001' and company_id = 3) and company_id = 3),
+                NULL,
+                NULL,
+                NULL,
+                (select id from dara_mallas_area_homologation where area_id = (select id from dara_mallas_area where code ='019-C01' and company_id = 3) 
+                    and period_id = (select id from dara_mallas_period where name = '200002' and company_id = 3)
+                    and company_id = 3),
+                3);
+                
+                
+                
+ En la hoja smaracaa se estan creando vacios por que la asignatura no existe
+Ej: AHCN0075

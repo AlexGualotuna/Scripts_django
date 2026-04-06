@@ -1,0 +1,7 @@
+DELETE FROM public.dara_mallas_subject_class
+	WHERE company_id = 4 and subject_id in (select id from dara_mallas_subject
+	where company_id = 4 and book_check is not null);
+	
+DELETE FROM public.dara_mallas_subject
+	WHERE company_id = 4 and book_check = true;
+

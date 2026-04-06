@@ -1,0 +1,5096 @@
+
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('000000', 'INICIO DEL TIEMPO', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('999999', 'FIN DEL TIEMPO', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('999997', 'PERIODO PARA SHAGCOM', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('999996', 'PERIODO PARA PROYECCIONES', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('999995', 'PERIODO TARIFAS UNIFICADO', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199000', '1A-1990-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199001', '1C-1990-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199002', '2C-1990-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199003', '3C-1990-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199011', '1T-1990-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199012', '2T-1990-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199013', '3T-1990-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199014', '4T-1990-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199041', '1B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199042', '2B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199043', '3B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199044', '4B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199045', '5B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199046', '6B-1990-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199050', '1M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199051', '2M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199052', '3M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199053', '4M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199054', '5M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199055', '6M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199056', '7M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199057', '8M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199058', '9M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199059', '10M-1990-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199060', '5T-1990 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199061', '6T-1990 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199100', '1A-1991-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199101', '1C-1991-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199102', '2C-1991-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199103', '3C-1991-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199111', '1T-1991-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199112', '2T-1991-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199113', '3T-1991-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199114', '4T-1991-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199141', '1B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199142', '2B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199143', '3B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199144', '4B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199145', '5B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199146', '6B-1991-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199150', '1M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199151', '2M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199152', '3M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199153', '4M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199154', '5M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199155', '6M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199156', '7M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199157', '8M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199158', '9M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199159', '10M-1991-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199160', '5T-1991 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199161', '6T-1991 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199200', '1A-1992-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199201', '1C-1992-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199202', '2C-1992-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199203', '3C-1992-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199211', '1T-1992-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199212', '2T-1992-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199213', '3T-1992-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199214', '4T-1992-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199241', '1B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199242', '2B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199243', '3B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199244', '4B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199245', '5B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199246', '6B-1992-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199250', '1M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199251', '2M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199252', '3M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199253', '4M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199254', '5M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199255', '6M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199256', '7M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199257', '8M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199258', '9M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199259', '10M-1992-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199260', '5T-1992 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199261', '6T-1992 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199300', '1A1993-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199301', '1C-1993-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199302', '2C-1993-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199303', '3C-1993-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199311', '1T-1993-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199312', '2T-1993-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199313', '3T-1993-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199314', '4T-1993-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199341', '1B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199342', '2B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199343', '3B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199344', '4B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199345', '5B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199346', '6B-1993-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199350', '1M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199351', '2M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199352', '3M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199353', '4M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199354', '5M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199355', '6M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199356', '7M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199357', '8M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199358', '9M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199359', '10M-1993-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199360', '5T-1993 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199361', '6T-1993 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199400', '1A-1994-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199401', '1C-1994-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199402', '2C-1994-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199403', '3C-1994-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199411', '1T-1994-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199412', '2T-1994-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199413', '3T-1994-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199414', '4T-1994-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199441', '1B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199442', '2B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199443', '3B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199444', '4B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199445', '5B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199446', '6B-1994-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199450', '1M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199451', '2M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199452', '3M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199453', '4M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199454', '5M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199455', '6M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199456', '7M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199457', '8M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199458', '9M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199459', '10M-1994-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199460', '5T-1994 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199461', '6T-1994 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199500', '1A-1995-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199501', '1C-1995-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199502', '2C-1995-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199503', '3C-1995-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199511', '1T-1995-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199512', '2T-1995-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199513', '3T-1995-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199514', '4T-1995-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199541', '1B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199542', '2B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199543', '3B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199544', '4B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199545', '5B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199546', '6B-1995-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199550', '1M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199551', '2M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199552', '3M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199553', '4M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199554', '5M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199555', '6M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199556', '7M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199557', '8M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199558', '9M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199559', '10M-1995-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199560', '5T-1995 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199561', '6T-1995 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199600', '1A-1996-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199601', '1C-1996-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199602', '2C-1996-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199603', '3C-1996-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199611', '1T-1996-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199612', '2T-1996-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199613', '3T-1996-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199614', '4T-1996-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199641', '1B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199642', '2B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199643', '3B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199644', '4B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199645', '5B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199646', '6B-1996-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199650', '1M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199651', '2M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199652', '3M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199653', '4M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199654', '5M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199655', '6M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199656', '7M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199657', '8M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199658', '9M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199659', '10M-1996-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199660', '5T-1996 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199661', '6T-1996 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199700', '1A-1997-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199701', '1C-1997-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199702', '2C-1997-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199703', '3C-1997-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199711', '1T-1997-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199712', '2T-1997-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199713', '3T-1997-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199714', '4T-1997-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199741', '1B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199742', '2B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199743', '3B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199744', '4B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199745', '5B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199746', '6B-1997-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199750', '1M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199751', '2M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199752', '3M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199753', '4M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199754', '5M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199755', '6M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199756', '7M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199757', '8M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199758', '9M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199759', '10M-1997-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199760', '5T-1997 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199761', '6T-1997 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199800', '1A-1998-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199801', '1C-1998-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199802', '2C-1998-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199803', '3C-1998-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199811', '1T-1998-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199812', '2T-1998-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199813', '3T-1998-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199814', '4T-1998-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199841', '1B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199842', '2B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199843', '3B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199844', '4B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199845', '5B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199846', '6B-1998-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199850', '1M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199851', '2M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199852', '3M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199853', '4M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199854', '5M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199855', '6M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199856', '7M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199857', '8M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199858', '9M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199859', '10M-1998-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199860', '5T-1998 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199861', '6T-1998 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199900', '1A-1999-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199901', '1C-1999-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199902', '2C-1999-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199903', '3C-1999-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199911', '1T-1999-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199912', '2T-1999-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199913', '3T-1999-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199914', '4T-1999-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199941', '1B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199942', '2B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199943', '3B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199944', '4B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199945', '5B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199946', '6B-1999-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199950', '1M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199951', '2M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199952', '3M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199953', '4M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199954', '5M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199955', '6M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199956', '7M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199957', '8M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199958', '9M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199959', '10M-1999-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199960', '5T-1999 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('199961', '6T-1999 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200000', '1A-2000-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200001', '1C-2000-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200002', '2C-2000-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200003', '3C-2000-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200011', '1T-2000-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200012', '2T-2000-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200013', '3T-2000-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200014', '4T-2000-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200041', '1B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200042', '2B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200043', '3B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200044', '4B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200045', '5B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200046', '6B-2000-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200050', '1M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200051', '2M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200052', '3M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200053', '4M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200054', '5M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200055', '6M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200056', '7M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200057', '8M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200058', '9M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200059', '10M-2000-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200060', '5T-2000 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200061', '6T-2000 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200100', '1A-2001-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200101', '1C-2001-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200102', '2C-2001-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200103', '3C-2001-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200111', '1T-2001-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200112', '2T-2001-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200113', '3T-2001-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200114', '4T-2001-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200141', '1B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200142', '2B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200143', '3B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200144', '4B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200145', '5B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200146', '6B-2001-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200150', '1M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200151', '2M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200152', '3M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200153', '4M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200154', '5M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200155', '6M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200156', '7M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200157', '8M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200158', '9M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200159', '10M-2001-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200160', '5T-2001 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200161', '6T-2001 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200200', '1A-2002-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200201', '1C-2002-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200202', '2C-2002-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200203', '3C-2002-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200211', '1T-2002-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200212', '2T-2002-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200213', '3T-2002-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200214', '4T-2002-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200241', '1B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200242', '2B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200243', '3B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200244', '4B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200245', '5B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200246', '6B-2002-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200250', '1M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200251', '2M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200252', '3M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200253', '4M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200254', '5M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200255', '6M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200256', '7M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200257', '8M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200258', '9M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200259', '10M-2002-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200260', '5T-2002 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200261', '6T-2002 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200300', '1A-2003-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200301', '1C-2003-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200302', '2C-2003-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200303', '3C-2003-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200311', '1T-2003-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200312', '2T-2003-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200313', '3T-2003-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200314', '4T-2003-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200341', '1B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200342', '2B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200343', '3B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200344', '4B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200345', '5B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200346', '6B-2003-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200350', '1M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200351', '2M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200352', '3M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200353', '4M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200354', '5M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200355', '6M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200356', '7M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200357', '8M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200358', '9M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200359', '10M-2003-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200360', '5T-2003 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200361', '6T-2003 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200400', '1A-2004-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200401', '1C-2004-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200402', '2C-2004-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200403', '3C-2004-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200411', '1T-2004-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200412', '2T-2004-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200413', '3T-2004-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200414', '4T-2004-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200441', '1B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200442', '2B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200443', '3B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200444', '4B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200445', '5B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200446', '6B-2004-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200450', '1M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200451', '2M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200452', '3M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200453', '4M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200454', '5M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200455', '6M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200456', '7M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200457', '8M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200458', '9M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200459', '10M-2004-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200460', '5T-2004 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200461', '6T-2004 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200500', '1A-2005-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200501', '1C-2005-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200502', '2C-2005-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200503', '3C-2005-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200511', '1T-2005-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200512', '2T-2005-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200513', '3T-2005-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200514', '4T-2005-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200541', '1B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200542', '2B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200543', '3B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200544', '4B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200545', '5B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200546', '6B-2005-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200550', '1M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200551', '2M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200552', '3M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200553', '4M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200554', '5M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200555', '6M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200556', '7M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200557', '8M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200558', '9M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200559', '10M-2005-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200560', '5T-2005 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200561', '6T-2005 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200600', '1A-2006-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200601', '1C-2006-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200602', '2C-2006-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200603', '3C-2006-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200611', '1T-2006-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200612', '2T-2006-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200613', '3T-2006-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200614', '4T-2006-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200641', '1B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200642', '2B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200643', '3B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200644', '4B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200645', '5B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200646', '6B-2006-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200650', '1M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200651', '2M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200652', '3M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200653', '4M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200654', '5M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200655', '6M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200656', '7M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200657', '8M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200658', '9M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200659', '10M-2006-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200660', '5T-2006 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200661', '6T-2006 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200700', '1A-2007-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200701', '1C-2007-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200702', '2C-2007-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200703', '3C-2007-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200711', '1T-2007-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200712', '2T-2007-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200713', '3T-2007-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200714', '4T-2007-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200741', '1B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200742', '2B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200743', '3B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200744', '4B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200745', '5B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200746', '6B-2007-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200750', '1M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200751', '2M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200752', '3M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200753', '4M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200754', '5M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200755', '6M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200756', '7M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200757', '8M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200758', '9M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200759', '10M-2007-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200760', '5T-2007 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200761', '6T-2007 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200800', '1A-2008-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200801', '1C-2008-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200802', '2C-2008-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200803', '3C-2008-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200811', '1T-2008-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200812', '2T-2008-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200813', '3T-2008-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200814', '4T-2008-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200841', '1B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200842', '2B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200843', '3B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200844', '4B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200845', '5B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200846', '6B-2008-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200850', '1M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200851', '2M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200852', '3M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200853', '4M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200854', '5M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200855', '6M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200856', '7M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200857', '8M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200858', '9M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200859', '10M-2008-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200860', '5T-2008 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200861', '6T-2008 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200900', '1A-2009-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200901', '1C-2009-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200902', '2C-2009-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200903', '3C-2009-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200911', '1T-2009-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200912', '2T-2009-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200913', '3T-2009-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200914', '4T-2009-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200941', '1B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200942', '2B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200943', '3B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200944', '4B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200945', '5B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200946', '6B-2009-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200950', '1M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200951', '2M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200952', '3M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200953', '4M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200954', '5M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200955', '6M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200956', '7M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200957', '8M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200958', '9M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200959', '10M-2009-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200960', '5T-2009 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('200961', '6T-2009 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201000', '1A-2010-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201001', '1C-2010-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201002', '2C-2010-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201003', '3C-2010-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201011', '1T-2010-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201012', '2T-2010-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201013', '3T-2010-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201014', '4T-2010-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201041', '1B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201042', '2B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201043', '3B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201044', '4B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201045', '5B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201046', '6B-2010-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201050', '1M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201051', '2M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201052', '3M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201053', '4M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201054', '5M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201055', '6M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201056', '7M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201057', '8M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201058', '9M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201059', '10M-2010-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201060', '5T-2010 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201061', '6T-2010 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201100', '1A-2011-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201101', '1C-2011-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201102', '2C-2011-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201103', '3C-2011-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201111', '1T-2011-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201112', '2T-2011-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201113', '3T-2011-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201114', '4T-2011-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201141', '1B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201142', '2B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201143', '3B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201144', '4B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201145', '5B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201146', '6B-2011-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201150', '1M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201151', '2M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201152', '3M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201153', '4M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201154', '5M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201155', '6M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201156', '7M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201157', '8M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201158', '9M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201159', '10M-2011-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201160', '5T-2011 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201161', '6T-2011 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201200', '1A-2012-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201201', '1C-2012-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201202', '2C-2012-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201203', '3C-2012-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201211', '1T-2012-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201212', '2T-2012-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201213', '3T-2012-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201214', '4T-2012-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201241', '1B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201242', '2B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201243', '3B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201244', '4B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201245', '5B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201246', '6B-2012-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201250', '1M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201251', '2M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201252', '3M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201253', '4M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201254', '5M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201255', '6M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201256', '7M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201257', '8M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201258', '9M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201259', '10M-2012-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201260', '5T-2012 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201261', '6T-2012 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201300', '1A-2013-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201301', '1C-2013-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201302', '2C-2013-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201303', '3C-2013-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201311', '1T-2013-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201312', '2T-2013-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201313', '3T-2013-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201314', '4T-2013-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201341', '1B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201342', '2B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201343', '3B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201344', '4B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201345', '5B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201346', '6B-2013-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201350', '1M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201351', '2M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201352', '3M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201353', '4M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201354', '5M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201355', '6M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201356', '7M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201357', '8M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201358', '9M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201359', '10M-2013-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201360', '5T-2013 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201361', '6T-2013 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201400', '1A-2014-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201401', '1C-2014-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201402', '2C-2014-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201403', '3C-2014-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201411', '1T-2014-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201412', '2T-2014-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201413', '3T-2014-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201414', '4T-2014-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201441', '1B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201442', '2B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201443', '3B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201444', '4B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201445', '5B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201446', '6B-2014-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201450', '1M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201451', '2M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201452', '3M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201453', '4M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201454', '5M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201455', '6M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201456', '7M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201457', '8M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201458', '9M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201459', '10M-2014-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201460', '5T-2014 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201461', '6T-2014 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201500', '1A-2015-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201501', '1C-2015-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201502', '2C-2015-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201503', '3C-2015-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201511', '1T-2015-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201512', '2T-2015-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201513', '3T-2015-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201514', '4T-2015-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201541', '1B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201542', '2B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201543', '3B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201544', '4B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201545', '5B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201546', '6B-2015-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201550', '1M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201551', '2M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201552', '3M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201553', '4M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201554', '5M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201555', '6M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201556', '7M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201557', '8M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201558', '9M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201559', '10M-2015-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201560', '5T-2015 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201561', '6T-2015 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201600', '1A-2016-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201601', '1C-2016-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201602', '2C-2016-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201603', '3C-2016-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201611', '1T-2016-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201612', '2T-2016-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201613', '3T-2016-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201614', '4T-2016-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201641', '1B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201642', '2B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201643', '3B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201644', '4B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201645', '5B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201646', '6B-2016-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201650', '1M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201651', '2M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201652', '3M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201653', '4M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201654', '5M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201655', '6M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201656', '7M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201657', '8M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201658', '9M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201659', '10M-2016-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201660', '5T-2016 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201661', '6T-2016 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201700', '1A-2017-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201701', '1C-2017-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201702', '2C-2017-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201703', '3C-2017-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201711', '1T-2017-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201712', '2T-2017-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201713', '3T-2017-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201714', '4T-2017-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201741', '1B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201742', '2B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201743', '3B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201744', '4B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201745', '5B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201746', '6B-2017-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201750', '1M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201751', '2M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201752', '3M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201753', '4M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201754', '5M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201755', '6M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201756', '7M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201757', '8M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201758', '9M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201759', '10M-2017-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201760', '5T-2017 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201761', '6T-2017 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201800', '1A-2018-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201801', '1C-2018-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201802', '2C-2018-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201803', '3C-2018-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201811', '1T-2018-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201812', '2T-2018-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201813', '3T-2018-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201814', '4T-2018-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201841', '1B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201842', '2B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201843', '3B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201844', '4B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201845', '5B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201846', '6B-2018-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201850', '1M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201851', '2M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201852', '3M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201853', '4M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201854', '5M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201855', '6M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201856', '7M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201857', '8M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201858', '9M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201859', '10M-2018-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201860', '5T-2018 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201861', '6T-2018 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201900', '1A-2019-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201901', '1C-2019-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201902', '2C-2019-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201903', '3C-2019-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201911', '1T-2019-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201912', '2T-2019-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201913', '3T-2019-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201914', '4T-2019-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201941', '1B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201942', '2B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201943', '3B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201944', '4B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201945', '5B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201946', '6B-2019-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201950', '1M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201951', '2M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201952', '3M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201953', '4M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201954', '5M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201955', '6M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201956', '7M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201957', '8M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201958', '9M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201959', '10M-2019-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201960', '5T-2019 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('201961', '6T-2019 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202000', '1A-2020-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202001', '1C-2020-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202002', '2C-2020-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202003', '3C-2020-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202011', '1T-2020-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202012', '2T-2020-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202013', '3T-2020-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202014', '4T-2020-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202041', '1B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202042', '2B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202043', '3B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202044', '4B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202045', '5B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202046', '6B-2020-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202050', '1M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202051', '2M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202052', '3M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202053', '4M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202054', '5M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202055', '6M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202056', '7M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202057', '8M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202058', '9M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202059', '10M-2020-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202060', '5T-2020 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202061', '6T-2020 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202100', '1A-2021-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202101', '1C-2021-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202102', '2C-2021-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202103', '3C-2021-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202111', '1T-2021-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202112', '2T-2021-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202113', '3T-2021-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202114', '4T-2021-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202141', '1B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202142', '2B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202143', '3B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202144', '4B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202145', '5B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202146', '6B-2021-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202150', '1M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202151', '2M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202152', '3M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202153', '4M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202154', '5M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202155', '6M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202156', '7M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202157', '8M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202158', '9M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202159', '10M-2021-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202160', '5T-2021 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202161', '6T-2021 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202200', '1A-2022-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202201', '1C-2022-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202202', '2C-2022-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202203', '3C-2022-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202211', '1T-2022-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202212', '2T-2022-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202213', '3T-2022-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202214', '4T-2022-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202241', '1B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202242', '2B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202243', '3B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202244', '4B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202245', '5B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202246', '6B-2022-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202250', '1M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202251', '2M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202252', '3M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202253', '4M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202254', '5M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202255', '6M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202256', '7M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202257', '8M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202258', '9M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202259', '10M-2022-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202260', '5T-2022 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202261', '6T-2022 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202300', '1A-2023-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202301', '1C-2023-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202302', '2C-2023-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202303', '3C-2023-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202311', '1T-2023-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202312', '2T-2023-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202313', '3T-2023-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202314', '4T-2023-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202341', '1B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202342', '2B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202343', '3B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202344', '4B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202345', '5B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202346', '6B-2023-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202350', '1M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202351', '2M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202352', '3M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202353', '4M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202354', '5M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202355', '6M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202356', '7M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202357', '8M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202358', '9M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202359', '10M-2023-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202360', '5T-2023 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202361', '6T-2023 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202400', '1A-2024-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202401', '1C-2024-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202402', '2C-2024-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202403', '3C-2024-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202411', '1T-2024-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202412', '2T-2024-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202413', '3T-2024-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202414', '4T-2024-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202441', '1B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202442', '2B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202443', '3B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202444', '4B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202445', '5B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202446', '6B-2024-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202450', '1M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202451', '2M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202452', '3M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202453', '4M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202454', '5M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202455', '6M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202456', '7M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202457', '8M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202458', '9M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202459', '10M-2024-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202460', '5T-2024 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202461', '6T-2024 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202500', '1A-2025-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202501', '1C-2025-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202502', '2C-2025-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202503', '3C-2025-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202511', '1T-2025-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202512', '2T-2025-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202513', '3T-2025-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202514', '4T-2025-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202541', '1B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202542', '2B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202543', '3B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202544', '4B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202545', '5B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202546', '6B-2025-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202550', '1M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202551', '2M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202552', '3M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202553', '4M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202554', '5M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202555', '6M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202556', '7M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202557', '8M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202558', '9M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202559', '10M-2025-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202560', '5T-2025 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202561', '6T-2025 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202600', '1A-2026-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202601', '1C-2026-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202602', '2C-2026-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202603', '3C-2026-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202611', '1T-2026-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202612', '2T-2026-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202613', '3T-2026-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202614', '4T-2026-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202641', '1B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202642', '2B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202643', '3B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202644', '4B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202645', '5B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202646', '6B-2026-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202650', '1M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202651', '2M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202652', '3M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202653', '4M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202654', '5M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202655', '6M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202656', '7M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202657', '8M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202658', '9M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202659', '10M-2026-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202660', '5T-2026 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202661', '6T-2026 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202700', '1A-2027-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202701', '1C-2027-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202702', '2C-2027-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202703', '3C-2027-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202711', '1T-2027-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202712', '2T-2027-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202713', '3T-2027-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202714', '4T-2027-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202741', '1B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202742', '2B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202743', '3B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202744', '4B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202745', '5B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202746', '6B-2027-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202750', '1M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202751', '2M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202752', '3M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202753', '4M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202754', '5M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202755', '6M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202756', '7M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202757', '8M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202758', '9M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202759', '10M-2027-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202760', '5T-2027 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202761', '6T-2027 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202800', '1A-2028-CL', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202801', '1C-2028-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202802', '2C-2028-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202803', '3C-2028-UG/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202811', '1T-2028-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202812', '2T-2028-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202813', '3T-2028-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202814', '4T-2028-GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202841', '1B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202842', '2B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202843', '3B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202844', '4B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202845', '5B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202846', '6B-2028-TN/GR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202850', '1M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202851', '2M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202852', '3M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202853', '4M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202854', '5M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202855', '6M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202856', '7M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202857', '8M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202858', '9M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202859', '10M-2028-TN', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202860', '5T-2028 MAESTRIAS MIGR', 4);
+
+        
+            insert into dara_mallas_period
+            (name, description, company_id)
+            values ('202861', '6T-2028 MAESTRIAS MIGR', 4);
+
+        

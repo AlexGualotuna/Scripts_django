@@ -1,0 +1,1261 @@
+
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'NO DECLARADO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '0000'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'TERAPIA FISICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '216'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'TERAPIA FISICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '020'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'DISENO PUBLICITARIO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '014'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'PUBLICIDAD',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '019'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'COMUNICACION DE MERCADEO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '210'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADMINISTRACION DE NEGOCIOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '001'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADM NEGOCIOS MERCADEO Y VENTAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '002'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADM NEGOCIOSRECURSOS HUMANOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '003'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ESTADISTICA APL. PARA EMPRESAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '021'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CONTADURIA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '012'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADMINISTRACION DE NEGOCIOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '200'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADM NEGOCIOS MERCADEO Y VENTAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '201'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADM NEGOCIOSRECURSOS HUMANOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '203'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CONTADURIA PUBLICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '211'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'DOCENCIA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L200'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. I Y II CICLOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '004'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. CONTABILIDAD',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '005'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. INFORMÁTICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '006'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. MATEMÁTICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '007'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. C. NATURALES',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '008'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. EST. SOCIALES',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '010'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. ESPAÑOL',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '011'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. PREESCOLAR',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '022'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. MATEMATICA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '205'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. EST. SOCIALES',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '206'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. ESPAÑOL',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '207'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. CIENCIA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '208'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ENSENANZA INGLES',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '018'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ENSENANZA INGLES',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '213'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'GESTION DE PROCESOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '015'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'INGENIERIA INDUSTRIAL',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '017'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'GESTION DE PROCESOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '214'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'INGENIERIA INDUSTRIAL',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '215'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'INGENIERIA DE SISTEMAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '016'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'DERECHO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '013'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'DERECHO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '212'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'MICROSOFT EXCEL ACADEMIC',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L700'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'MICROSOFT EXCEL BUSINESS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L701'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CONTRATACION ADMINISTRATIVA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L702'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'SAP I',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L703'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'SAP II',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L704'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CERTIFICACION YELLOW BELT',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L705'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'LESCO I',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L706'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'LESCO II',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L707'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'LESCO III',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L708'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CCNA 01',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L709'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CCNA 02',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L710'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CCNA 03',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L711'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CERTIFICACION SCRUM MASTER',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L712'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADMINISTRACION DE EMPRESAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L550'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CONTABILIDAD Y FINANZAS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L551'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'RECURSOS HUMANOS',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '552'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'ADMINISTRACION EDUCATIVA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '450'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CIENCIAS EDUC. DOCENCIA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '451'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'FINANZAS Y BANCA',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '500'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'CONTROL DE CALIDAD Y LOG.',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L652'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'DISENO GRAFICO',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L653'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'MARKETING DIGITAL',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L655'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'SUPERVISIÓN DE PRODUCCIÓN',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L656'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'COMUNICACION ESTR Y MERC DIGIT',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = '209'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'TECNICO CADENA SUM Y MEJ CONT',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L553'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
+        insert into dara_mallas_specialization
+            (name,
+            color,
+            program_id,
+            saes_speciality_plan_code,
+            company_id)
+        select
+            'TECNICO SUPERVISION PRODUCCION',
+            '#FFFFFF',
+            pc.program_id,
+            NULL,
+            4
+        from dara_mallas_program_code pc
+        where pc.saes_code_id = (
+                select id
+                from dara_mallas_saes_code
+                where name = 'L554'
+                and company_id = 4)
+        and pc.company_id = 4;
+        
